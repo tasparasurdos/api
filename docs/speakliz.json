@@ -1,0 +1,15 @@
+{
+  "titulo": "SpeakLiz: para pessoas com def",
+  "descricao": "SpeakLiz é um aplicativo que utiliza Inteligência Artificial para auxiliar na comunicação de pessoas surdas. Ele oferece quatro principais funcionalidades: alerta de som ambiente, conversão de voz em texto, conversão de texto em voz, e tradução de linguagem de sinais (limitada à linguagem de sinais americana).",
+  "orientacao": "Para aproveitar ao máximo o SpeakLiz como tecnologia assistiva, é importante testar as funcionalidades em diferentes ambientes e ajustar as configurações conforme necessário. A função de alerta de som ambiente pode ser útil em sala de aula para notificar o aluno sobre sons importantes. Ao utilizar a conversão de voz em texto, garantir uma boa conexão à internet para melhor desempenho.",
+  "dicas": "O aplicativo é recomendado para atividades de leitura e comunicação, especialmente em situações onde o aluno precisa de suporte para entender sons ao seu redor ou para interagir com outros. Não é recomendado para atividades que exijam um alto grau de precisão na interpretação da linguagem de sinais, devido às limitações relatadas pelos usuários.",
+  "etapas_justificativa": "O SpeakLiz pode ser adaptado para diferentes idades, mas é mais eficaz em contextos onde a comunicação básica e o suporte à leitura são necessários.",
+  "imagem": "../images/speakliz.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Pago",
+  "requer_internet": "Parcialmente",
+  "plataformas": "Android; iOS",
+  "autor": "Talov, Inc.",
+  "link": "Android,https://play.google.com/store/apps/details?id=com.talovstudio.speakliz&hl=pt_BR;iOS,https://apps.apple.com/us/app/speakliz-for-deaf-people/id1239857536;",
+  "etapas": "EJA; EJA; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Iniciais; Educação Infantil; Educação Infantil; Ensino Médio"
+}

@@ -1,0 +1,15 @@
+{
+  "titulo": "GitalkText",
+  "descricao": "O GitalkText é uma ferramenta online gratuita que transcreve automaticamente o áudio de vídeos e aulas ao vivo para texto. Pode ser utilizado em diversas plataformas, como YouTube, palestras e qualquer tipo de áudio reproduzido no computador. É especialmente útil para pessoas surdas, pois converte a fala em texto em tempo real, facilitando a compreensão do conteúdo.",
+  "orientacao": "Para obter o máximo da ferramenta, utilize fones de ouvido ou garanta um ambiente silencioso para que o áudio capturado seja o mais claro possível. Siga o manual de instruções para configurar corretamente a aplicação no Windows e verifique a qualidade do áudio antes de iniciar a transcrição.",
+  "dicas": "O GitalkText é ideal para ser usado em aulas ao vivo ou em atividades onde o conteúdo é transmitido em áudio, como palestras e vídeos educacionais. Ele pode ser combinado com materiais de apoio em texto, permitindo que os alunos acompanhem e revisem o conteúdo transcrito posteriormente. Evite usá-lo como única fonte de informação, complementando com atividades visuais ou interativas.",
+  "etapas_justificativa": "GitalkText é mais adequado para alunos que já possuem habilidades de leitura e interpretação de textos. Por ser uma ferramenta de transcrição de áudio, ela se torna mais eficaz para estudantes em níveis de ensino onde o conteúdo auditivo é mais presente, como palestras e vídeos.",
+  "imagem": "../images/gitalktext.jpg",
+  "categoria": "Transcrição de Fala",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "Site",
+  "autor": "@gitalktext",
+  "link": "Site,https://gitalktext.com/;",
+  "etapas": "EJA; Ensino Superior; Ensino Médio; Ensino Fundamental - Anos Finais"
+}

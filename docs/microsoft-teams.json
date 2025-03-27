@@ -1,0 +1,15 @@
+{
+  "titulo": "Microsoft Teams",
+  "descricao": "O Microsoft Teams é uma plataforma de colaboração que integra chat, reuniões, chamadas e compartilhamento de arquivos. Para pessoas surdas ou com deficiência auditiva, oferece legendas em tempo real e transcrição automática, facilitando a participação em reuniões e atividades escolares. A versão gratuita permite reuniões de até 60 minutos com até 100 participantes e oferece 5 GB de armazenamento para arquivos compartilhados.",
+  "orientacao": "Para obter o máximo do Teams como ferramenta assistiva, ative as legendas em tempo real e utilize a função de transcrição automática durante reuniões e aulas. Isso permitirá que os alunos surdos acompanhem o conteúdo discutido. Certifique-se de que todos os participantes saibam usar essas funções e mantenham o áudio claro para melhor transcrição.",
+  "dicas": "Use o Microsoft Teams para atividades colaborativas onde os alunos possam participar de discussões em grupo. As legendas em tempo real são úteis em aulas ao vivo ou reuniões escolares, enquanto a transcrição automática pode ser revisada posteriormente para reforço do conteúdo. Evite reuniões muito longas sem pausas para garantir que todos possam acompanhar.",
+  "etapas_justificativa": "A flexibilidade do Microsoft Teams e suas ferramentas de acessibilidade o tornam adequado para estudantes em etapas mais avançadas, onde a comunicação e colaboração são fundamentais para o sucesso acadêmico.",
+  "imagem": "../images/microsoft-teams.jpg",
+  "categoria": "Videoconferência",
+  "custo": "Freemium",
+  "requer_internet": "Parcialmente",
+  "plataformas": "Android; iOS; Windows",
+  "autor": "Microsoft Corporation",
+  "link": "Windows,https://www.microsoft.com/pt-br/microsoft-teams/;Android,https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=pt_BR;iOS,https://apps.apple.com/br/app/microsoft-teams/id1113153706;",
+  "etapas": "EJA; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Médio; Ensino Médio; Ensino Médio; Ensino Superior; Ensino Superior; Ensino Superior; EJA; EJA"
+}

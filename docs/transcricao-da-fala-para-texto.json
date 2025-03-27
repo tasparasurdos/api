@@ -1,0 +1,15 @@
+{
+  "titulo": "Transcrição da fala para texto",
+  "descricao": "Dolphin é uma ferramenta de comunicação assistiva que permite converter textos escritos em fala e transcrever fala em texto. Voltada para facilitar a comunicação de pessoas com comprometimento na fala e/ou surdas, a ferramenta é simples de usar, gratuita e funciona diretamente no navegador.",
+  "orientacao": "Para obter o máximo da ferramenta, é importante utilizar a opção de conversão de texto para fala para facilitar a comunicação em sala de aula, especialmente em atividades que envolvam leitura e expressão oral. Utilize o recurso de transcrição de fala em ambientes onde a leitura do conteúdo é mais eficaz para o aluno surdo. Ajuste o volume e a clareza da fala para melhor compreensão.",
+  "dicas": "Recomenda-se o uso do Dolphin em atividades que exijam comunicação escrita e oral, como apresentações de trabalhos ou leitura em voz alta. O recurso de transcrição de fala pode ser útil em situações de diálogos em grupo, permitindo que o aluno acompanhe a conversa por meio de texto. Não é ideal para atividades que demandem alta interatividade ou respostas rápidas em tempo real.",
+  "etapas_justificativa": "A flexibilidade da ferramenta permite a adaptação a diferentes níveis de ensino, auxiliando na inclusão e na participação ativa dos alunos com necessidades especiais.",
+  "imagem": "../images/transcricao-da-fala-para-texto.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Não",
+  "plataformas": "iOS",
+  "autor": "Alexey Beschetnikov",
+  "link": "iOS,https://apps.apple.com/br/app/transcri%C3%A7%C3%A3o-da-fala-para-texto/id1625460169;",
+  "etapas": "Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Educação Infantil"
+}

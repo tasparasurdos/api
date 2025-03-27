@@ -1,0 +1,15 @@
+{
+  "titulo": "Libras Para Todos",
+  "descricao": "O 'Libras Para Todos' é um aplicativo que oferece acesso a mais de 5.700 palavras em Libras, além de permitir o aprendizado do alfabeto manual e dos números em Libras. O aplicativo também inclui um teclado de escrita em Libras, proporcionando uma experiência interativa para os usuários que desejam treinar seus conhecimentos. A ferramenta é útil para auxiliar a comunicação e o aprendizado de Libras, especialmente em contextos educacionais.",
+  "orientacao": "Para obter o máximo da ferramenta, é recomendável explorar as diferentes funcionalidades do aplicativo, como o dicionário e o teclado de Libras. Em sala de aula, o app pode ser usado como um recurso complementar para o ensino de novos sinais e para reforçar o vocabulário já aprendido. No entanto, é importante combinar o uso do aplicativo com atividades práticas e interativas para garantir uma aprendizagem mais completa.",
+  "dicas": "O aplicativo é indicado para atividades de introdução e reforço de vocabulário em Libras, podendo ser utilizado em dinâmicas de grupo ou como ferramenta de estudo individual. No entanto, deve-se evitar seu uso exclusivo para o aprendizado de frases completas, pois o app foca mais em palavras isoladas e sinais básicos. É recomendado combinar o uso do app com outras ferramentas e metodologias.",
+  "etapas_justificativa": "A tecnologia é adequada para alunos em diferentes etapas do aprendizado de Libras, desde os anos iniciais do Ensino Fundamental até o Ensino Médio e EJA, especialmente para introdução e reforço de vocabulário básico. O teclado de Libras pode ser útil para praticar a escrita e leitura em Libras, especialmente em etapas mais avançadas.",
+  "imagem": "../images/libras-para-todos.jpg",
+  "categoria": "Libras: Aprendizagem",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "Android",
+  "autor": "WEBMATTE SOLUÇÕES WEB",
+  "link": "Android,https://play.google.com/store/apps/details?id=br.com.andersonmatte.librasparatodos;",
+  "etapas": "EJA; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais"
+}

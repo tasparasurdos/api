@@ -1,0 +1,15 @@
+{
+  "titulo": "Zapia - Assistente Pessoal IA",
+  "descricao": "Zapia é um assistente pessoal de inteligência artificial projetado para atender às necessidades do Brasil. Entre suas funcionalidades, estão a transcrição de áudios do WhatsApp, pesquisa de produtos e serviços locais, interpretação de fotos, comunicação por áudio, e suporte em diversas tarefas diárias. Ele pode ser uma ferramenta útil para pessoas surdas, oferecendo transcrições de áudio em texto e informações detalhadas sobre produtos e serviços.",
+  "orientacao": "Para utilizar Zapia como tecnologia assistiva, encaminhe áudios recebidos no WhatsApp para o número do Zapia e receba a transcrição em texto. Use o recurso de interpretação de imagens para entender melhor o conteúdo visual e utilize as consultas gerais para acessar informações sobre diversos tópicos.",
+  "dicas": "Zapia pode ser útil em sala de aula para transcrever áudios de professores, aulas gravadas ou discussões em grupo. É recomendável utilizá-lo como suporte, especialmente em atividades onde o áudio é o principal meio de comunicação. Além disso, o assistente pode ajudar a encontrar recursos educacionais e serviços locais que atendam às necessidades dos alunos. Evite depender exclusivamente do Zapia; combine-o com outras ferramentas de acessibilidade.",
+  "etapas_justificativa": "Zapia é mais eficaz para alunos que já possuem habilidades de leitura e compreensão de texto. Por ser uma ferramenta baseada em inteligência artificial, é indicada para estudantes que lidam com conteúdo mais complexo e que podem se beneficiar de transcrições e informações adicionais.",
+  "imagem": "../images/zapia.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "iOS; Site",
+  "autor": "BrainLogic AI SAS",
+  "link": "Site,https://zapia.com/pt-br;iOS,https://apps.apple.com/br/app/zapia-assistente-pessoal-ia/id6470821480;",
+  "etapas": "Ensino Superior; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Médio; Ensino Médio; Ensino Superior; EJA; EJA"
+}

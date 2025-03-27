@@ -1,0 +1,15 @@
+{
+  "titulo": "ACESSIBILIDADE NA CÂMARA: Dicionário de Libras",
+  "descricao": "O 'ACESSIBILIDADE NA CÂMARA: Dicionário de Libras' é um dicionário de termos político-legislativos em Libras, disponível no site da Câmara dos Deputados. Com mais de 1.200 sinais em vídeos animados, o dicionário visa facilitar o entendimento da comunidade surda sobre o papel do Legislativo e as atividades dos deputados, sendo uma ferramenta de educação político-legislativa e de cidadania. O projeto é fruto de uma parceria entre a Câmara, a UFPB e o MPOG, e é parte do projeto Suíte VLibras, que amplia o acesso a conteúdos digitais para Libras.",
+  "orientacao": "Para maximizar o uso da ferramenta, é recomendado que os usuários explorem as diferentes funcionalidades de busca por palavra, assunto, letra do alfabeto e configuração de mão. Em sala de aula, é importante utilizar o dicionário como complemento a outras atividades educativas, garantindo que os estudantes compreendam o contexto de uso dos sinais apresentados. O uso offline pode ser limitado, portanto, certifique-se de ter acesso à internet para aproveitar todos os recursos disponíveis.",
+  "dicas": "O dicionário é indicado para atividades de aprendizagem de Libras e para o ensino de novos vocábulos em sala de aula. Pode ser utilizado para exercícios de tradução e compreensão de frases em Libras. No entanto, não é recomendado como única fonte de aprendizado, especialmente para áreas que requerem uma abordagem prática da língua de sinais. Complementar com atividades interativas pode melhorar a absorção do conteúdo.",
+  "etapas_justificativa": "O dicionário é mais adequado para estudantes que já possuem conhecimentos básicos de Libras e desejam expandir seu vocabulário. Nos anos finais do Ensino Fundamental e no Ensino Médio, pode ser utilizado para introduzir novos sinais e contextos de uso. No Ensino Superior e na EJA, é uma ferramenta de apoio para cursos que envolvem a tradução e interpretação de Libras.",
+  "imagem": "../images/acessibilidade-na-camara-dicionario-de-libras.jpg",
+  "categoria": "Libras: Dicionários e Glossários",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "Site",
+  "autor": "Câmara dos Deputados",
+  "link": "Site,https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/acessibilidade/glossarios/dicionario-de-libras;",
+  "etapas": "EJA; Ensino Superior; Ensino Fundamental - Anos Finais; Ensino Médio"
+}

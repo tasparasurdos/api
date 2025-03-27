@@ -1,0 +1,15 @@
+{
+  "titulo": "Picto4Me",
+  "descricao": "Picto4Me é uma aplicação web que permite criar, executar, compartilhar e conversar através de pranchas de comunicação pictográficas. É projetado para ser simples e poderoso, permitindo que educadores e terapeutas criem tarefas para educação especial e terapia clínica. A ferramenta é integrada ao Google Drive, onde os projetos são armazenados, e oferece uma ampla gama de imagens, além de permitir a busca por pictogramas na web.",
+  "orientacao": "Para obter o máximo da ferramenta, é importante explorar as bibliotecas de imagens disponíveis e personalizar as pranchas de comunicação de acordo com as necessidades específicas de cada aluno. A integração com o Google Drive facilita o armazenamento e o compartilhamento dos projetos, garantindo que eles estejam acessíveis em diferentes dispositivos. Utilize a função de mensagens pictográficas e audíveis no Telegram para expandir a comunicação entre usuários.",
+  "dicas": "O Picto4Me é especialmente útil para atividades que envolvem comunicação alternativa, como ajudar alunos não verbais a expressarem suas necessidades e sentimentos. Pode ser utilizado em atividades de sala de aula para criar histórias sociais, ajudar na compreensão de rotinas diárias, ou mesmo para ensinar novos conceitos por meio de representações visuais. Não é recomendado para atividades que exigem interação verbal direta.",
+  "etapas_justificativa": "A tecnologia é adaptável a diferentes níveis de ensino, sendo especialmente útil para alunos que apresentam dificuldades de comunicação, permitindo um ambiente de aprendizado mais inclusivo.",
+  "imagem": "../images/picto4me.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Freemium",
+  "requer_internet": "Parcialmente",
+  "plataformas": "Site",
+  "autor": "Zoqui LTDA",
+  "link": "Site,https://picto4.me/site;",
+  "etapas": "Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Educação Infantil"
+}

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tecnologias Assistivas - API</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        pre {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        code {
+            color: #d63384;
+        }
+    </style>
+</head>
+<body>
+    <header class="bg-primary text-white py-4">
+        <div class="container">
+            <h1>Tecnologias Assistivas - API</h1>
+            <p class="lead">Documentação da API Estática para Tecnologias Assistivas</p>
+        </div>
+    </header>
+
+    <main class="container my-5">
+        <!-- Introdução -->
+        <section id="introducao" class="mb-5">
+            <h2>Introdução</h2>
+            <p>
+                A <strong>Tecnologias Assistivas - API</strong> é uma API estática hospedada em 
+                <a href="https://sitepublico.github.io/tas-api" target="_blank">https://sitepublico.github.io/tas-api</a>. 
+                Ela fornece acesso a uma coleção de tecnologias assistivas organizadas em arquivos JSON, 
+                permitindo consultas por tecnologia individual ou por índices agrupados.
+            </p>
+            <p>Todos os endpoints estão localizados no diretório <code>/api/</code>.</p>
+        </section>
+
+        <!-- Endpoints -->
+        <section id="endpoints" class="mb-5">
+            <h2>Endpoints</h2>
+
+            <!-- Tecnologia Individual -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>Tecnologia Individual</h3>
+                </div>
+                <div class="card-body">
+                    <p><strong>URL:</strong> <code>/api/{slug}.json</code></p>
+                    <p>Retorna os detalhes de uma tecnologia assistiva específica, onde <code>{slug}</code> é o identificador único da tecnologia.</p>
+                    <h5>Exemplo de Requisição:</h5>
+                    <pre>GET https://sitepublico.github.io/tas-api/api/leitor-tela.json</pre>
+                    <h5>Exemplo de Resposta:</h5>
+                    <pre>{
+  "titulo": "Leitor de Tela",
+  "descricao": "Software que converte texto em voz para acessibilidade.",
+  "orientacao": "Instalar e configurar atalhos.",
+  "dicas": "Use fones de ouvido para melhor experiência.",
+  "etapas_justificativa": "Acessibilidade para deficientes visuais.",
+  "imagem": "../images/leitor-tela.png",
+  "categoria": "Acessibilidade Visual",
+  "custo": "Gratuito",
+  "requer_internet": "Não",
+  "plataformas": "Windows, Mac",
+  "autor": "Equipe TAS",
+  "link": "https://exemplo.com/leitor",
+  "etapas": "Ensino Fundamental;Ensino Médio"
+}</pre>
+                </div>
+            </div>
+
+            <!-- Índice Geral -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>Índice Geral</h3>
+                </div>
+                <div class="card-body">
+                    <p><strong>URL:</strong> <code>/api/indice.json</code></p>
+                    <p>Lista todas as tecnologias disponíveis em ordem alfabética pelo título.</p>
+                    <h5>Exemplo de Requisição:</h5>
+                    <pre>GET https://sitepublico.github.io/tas-api/api/indice.json</pre>
+                    <h5>Exemplo de Resposta:</h5>
+                    <pre>[
+  {"titulo": "Ampliador de Tela", "arquivo": "ampliador-tela.json"},
+  {"titulo": "Leitor de Tela", "arquivo": "leitor-tela.json"}
+]</pre>
+                </div>
+            </div>
+
+            <!-- Categorias -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>Categorias</h3>
+                </div>
+                <div class="card-body">
+                    <p><strong>URL:</strong> <code>/api/categorias.json</code></p>
+                    <p>Lista todas as categorias com suas descrições e tecnologias associadas.</p>
+                    <h5>Exemplo de Requisição:</h5>
+                    <pre>GET https://sitepublico.github.io/tas-api/api/categorias.json</pre>
+                    <h5>Exemplo de Resposta:</h5>
+                    <pre>{
+  "Acessibilidade Visual": {
+    "descricao": "Tecnologias para deficientes visuais",
+    "tecnologias": [
+      {"titulo": "Leitor de Tela", "arquivo": "leitor-tela.json"}
+    ]
+  },
+  "Acessibilidade Auditiva": {
+    "descricao": "Tecnologias para deficientes auditivos",
+    "tecnologias": [
+      {"titulo": "Legendas Automáticas", "arquivo": "legendas-auto.json"}
+    ]
+  }
+}</pre>
+                </div>
+            </div>
+
+            <!-- Custos -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>Custos</h3>
+                </div>
+                <div class="card-body">
+                    <p><strong>URL:</strong> <code>/api/custo.json</code></p>
+                    <p>Lista tecnologias agrupadas por custo.</p>
+                    <h5>Exemplo de Requisição:</h5>
+                    <pre>GET https://sitepublico.github.io/tas-api/api/custo.json</pre>
+                    <h5>Exemplo de Resposta:</h5>
+                    <pre>{
+  "Gratuito": [
+    {"titulo": "Leitor de Tela", "arquivo": "leitor-tela.json"}
+  ],
+  "Pago": [
+    {"titulo": "Software Premium", "arquivo": "software-premium.json"}
+  ]
+}</pre>
+                </div>
+            </div>
+
+            <!-- Etapas de Ensino -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>Etapas de Ensino</h3>
+                </div>
+                <div class="card-body">
+                    <p><strong>URL:</strong> <code>/api/etapas_ensino.json</code></p>
+                    <p>Lista tecnologias agrupadas por etapas de ensino.</p>
+                    <h5>Exemplo de Requisição:</h5>
+                    <pre>GET https://sitepublico.github.io/tas-api/api/etapas_ensino.json</pre>
+                    <h5>Exemplo de Resposta:</h5>
+                    <pre>{
+  "Ensino Fundamental": [
+    {"titulo": "Leitor de Tela", "arquivo": "leitor-tela.json"}
+  ],
+  "Ensino Médio": [
+    {"titulo": "Leitor de Tela", "arquivo": "leitor-tela.json"}
+  ]
+}</pre>
+                </div>
+            </div>
+
+            <!-- Requer Internet -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>Requer Internet</h3>
+                </div>
+                <div class="card-body">
+                    <p><strong>URL:</strong> <code>/api/requer_internet.json</code></p>
+                    <p>Lista tecnologias agrupadas por necessidade de internet.</p>
+                    <h5>Exemplo de Requisição:</h5>
+                    <pre>GET https://sitepublico.github.io/tas-api/api/requer_internet.json</pre>
+                    <h5>Exemplo de Resposta:</h5>
+                    <pre>{
+  "Sim": [
+    {"titulo": "App Online", "arquivo": "app-online.json"}
+  ],
+  "Não": [
+    {"titulo": "Leitor de Tela", "arquivo": "leitor-tela.json"}
+  ]
+}</pre>
+                </div>
+            </div>
+
+            <!-- Plataformas -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>Plataformas</h3>
+                </div>
+                <div class="card-body">
+                    <p><strong>URL:</strong> <code>/api/plataformas.json</code></p>
+                    <p>Lista tecnologias agrupadas por plataformas suportadas.</p>
+                    <h5>Exemplo de Requisição:</h5>
+                    <pre>GET https://sitepublico.github.io/tas-api/api/plataformas.json</pre>
+                    <h5>Exemplo de Resposta:</h5>
+                    <pre>{
+  "Windows": [
+    {"titulo": "Leitor de Tela", "arquivo": "leitor-tela.json"}
+  ],
+  "Mac": [
+    {"titulo": "Leitor de Tela", "arquivo": "leitor-tela.json"}
+  ]
+}</pre>
+                </div>
+            </div>
+        </section>
+
+        <!-- Uso -->
+        <section id="uso" class="mb-5">
+            <h2>Como Usar</h2>
+            <p>Como esta é uma API estática, você pode fazer requisições diretamente usando ferramentas como <code>fetch</code> em JavaScript:</p>
+            <pre><code>fetch('https://sitepublico.github.io/tas-api/api/leitor-tela.json')
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => console.error('Erro:', error));
+</code></pre>
+            <p>Ou em Python com <code>requests</code>:</p>
+            <pre><code>import requests
+response = requests.get('https://sitepublico.github.io/tas-api/api/leitor-tela.json')
+data = response.json()
+print(data)
+</code></pre>
+        </section>
+
+        <!-- Estrutura de Dados -->
+        <section id="estrutura">
+            <h2>Estrutura de Dados</h2>
+            <p>Cada tecnologia individual contém os seguintes campos:</p>
+            <ul class="list-group">
+                <li class="list-group-item"><code>titulo</code>: String - Nome da tecnologia</li>
+                <li class="list-group-item"><code>descricao</code>: String - Descrição da tecnologia</li>
+                <li class="list-group-item"><code>orientacao</code>: String - Instruções de uso</li>
+                <li class="list-group-item"><code>dicas</code>: String - Dicas para melhor uso</li>
+                <li class="list-group-item"><code>etapas_justificativa</code>: String - Justificativa pedagógica</li>
+                <li class="list-group-item"><code>imagem</code>: String - Caminho relativo da imagem (<code>../images/</code>)</li>
+                <li class="list-group-item"><code>categoria</code>: String - Categoria da tecnologia</li>
+                <li class="list-group-item"><code>custo</code>: String - Custo (ex: "Gratuito", "Pago")</li>
+                <li class="list-group-item"><code>requer_internet</code>: String - "Sim" ou "Não"</li>
+                <li class="list-group-item"><code>plataformas</code>: String - Plataformas suportadas (separadas por vírgula)</li>
+                <li class="list-group-item"><code>autor</code>: String - Autor da tecnologia</li>
+                <li class="list-group-item"><code>link</code>: String - URL para mais informações</li>
+                <li class="list-group-item"><code>etapas</code>: String - Etapas de ensino (separadas por ponto e vírgula)</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2025 Tecnologias Assistivas - API. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

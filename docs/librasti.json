@@ -1,0 +1,15 @@
+{
+  "titulo": "LibrasTI",
+  "descricao": "O 'LibrasTI' é um aplicativo desenvolvido pelo PET-SI/UFRRJ em parceria com o NAPNE do IFSC, com o objetivo de promover a inclusão de surdos no campo tecnológico. O aplicativo oferece um glossário de termos técnicos da área de tecnologia da informação em Libras, através de vídeos que mostram os sinais correspondentes. Voltado para a plataforma Android, o LibrasTI é totalmente gratuito e pode ser utilizado offline, o que permite seu uso em qualquer lugar. A ferramenta é destinada a alunos, professores e profissionais da área de TI.",
+  "orientacao": "Para obter o máximo da ferramenta, é recomendável que os usuários explorem as diferentes categorias de termos disponíveis no glossário e utilizem o aplicativo como um recurso complementar ao ensino de tecnologia da informação. Em sala de aula, o LibrasTI pode ser usado para introduzir e reforçar vocabulário técnico em Libras, sendo especialmente útil em cursos de informática e disciplinas relacionadas. Como o app é offline, certifique-se de ter baixado todo o conteúdo necessário antes de utilizá-lo.",
+  "dicas": "O aplicativo é indicado para atividades que envolvem o ensino de termos técnicos em tecnologia da informação, podendo ser utilizado em dinâmicas de grupo ou como recurso de estudo individual. No entanto, deve-se evitar seu uso exclusivo em áreas onde o vocabulário técnico é mais extenso ou complexo, complementando com outras ferramentas e recursos de Libras.",
+  "etapas_justificativa": "A tecnologia é adequada para alunos que estão em etapas mais avançadas de aprendizado e que já possuem um conhecimento básico de Libras. O LibrasTI é especialmente útil em cursos técnicos e de graduação na área de tecnologia da informação, onde há uma necessidade constante de compreender e utilizar termos técnicos em Libras.",
+  "imagem": "../images/librasti.jpg",
+  "categoria": "Libras: Dicionários e Glossários",
+  "custo": "Grátis",
+  "requer_internet": "Não",
+  "plataformas": "Android",
+  "autor": "PET-SI/UFRRJ",
+  "link": "Android,https://play.google.com/store/apps/details?id=br.ufrrj.petsi.librasti&hl=pt_BR;",
+  "etapas": "EJA; Ensino Superior; Ensino Médio"
+}

@@ -1,0 +1,15 @@
+{
+  "titulo": "Ava: Transcriptions & Captions",
+  "descricao": "O 'Ava: Transcriptions & Captions' é um aplicativo que utiliza legendas ao vivo para transcrever voz em texto em tempo real, proporcionando acessibilidade para pessoas surdas ou com perda auditiva. O aplicativo pode ser utilizado em diversas situações, como salas de aula, reuniões de negócios, consultas médicas e eventos. Ava oferece transcrições de áudio em tempo real, com uma taxa de erro de aproximadamente 5 em cada 100 palavras. Com o recurso Ava Scribe, a precisão pode chegar a 1 erro em cada 100 palavras.",
+  "orientacao": "Para obter o máximo da ferramenta, é recomendável que os usuários explorem os recursos de personalização de vocabulário e correção de palavras, para melhorar a precisão das transcrições. Em ambientes educacionais, Ava pode ser utilizado para transcrever aulas e palestras, garantindo que os alunos surdos não percam informações importantes. No entanto, é importante garantir que o microfone esteja posicionado corretamente e que o ambiente seja silencioso para melhorar a qualidade da transcrição.",
+  "dicas": "O aplicativo é indicado para aulas expositivas, conferências e situações onde a compreensão auditiva é essencial. Pode ser utilizado para acompanhar podcasts, vídeos ao vivo e conversas em grupo. No entanto, deve-se evitar o uso exclusivo de Ava em ambientes com muito ruído, onde a precisão da transcrição pode ser comprometida. Além disso, é importante complementar o uso do aplicativo com outras formas de comunicação, como materiais visuais.",
+  "etapas_justificativa": "A tecnologia é adequada para alunos que já possuem habilidades de leitura e podem acompanhar transcrições em tempo real. Nos anos finais do Ensino Fundamental e no Ensino Médio, o aplicativo pode ser utilizado para apoiar a compreensão de conteúdos mais complexos. No Ensino Superior e na EJA, é uma ferramenta valiosa para acompanhamento de aulas e palestras.",
+  "imagem": "../images/ava.jpg",
+  "categoria": "Transcrição de Fala",
+  "custo": "Freemium",
+  "requer_internet": "Sim",
+  "plataformas": "Android; iOS",
+  "autor": "Ava Accessibility",
+  "link": "Android,https://play.google.com/store/apps/details?id=com.transcense.ava_beta;iOS,https://apps.apple.com/us/app/ava-communicate-beyond-barriers/id1030067058;",
+  "etapas": "EJA; EJA; Ensino Superior; Ensino Superior; Ensino Médio; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais"
+}

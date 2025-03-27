@@ -1,0 +1,15 @@
+{
+  "titulo": "VLibras",
+  "descricao": "O VLibras é uma suíte de ferramentas de código aberto que traduz automaticamente conteúdos digitais em português para a Língua Brasileira de Sinais (LIBRAS). Desenvolvido pela UFPB com apoio de órgãos governamentais, o aplicativo auxilia na comunicação e na disseminação de Libras, sendo compatível com computadores, smartphones e tablets. Ele não substitui um intérprete humano, mas oferece uma maneira acessível de traduzir textos em ambientes digitais.",
+  "orientacao": "Para obter o máximo da ferramenta, é importante garantir uma boa conexão com a internet e evitar textos longos, devido a possíveis travamentos relatados por usuários. Também é útil ajustar a velocidade do avatar e utilizar a função de rotação 360º para uma melhor visualização dos sinais.",
+  "dicas": "O VLibras pode ser integrado em atividades de leitura e interpretação de textos, ajudando alunos surdos a entenderem conteúdos em português. No entanto, é importante complementar o uso do aplicativo com o apoio de intérpretes de Libras e outras ferramentas pedagógicas, devido a limitações na tradução de frases complexas.",
+  "etapas_justificativa": "O VLibras é adequado para alunos que já possuem uma base em leitura e escrita em português e estão em processo de aprendizagem de Libras. Pode ser usado em etapas iniciais para facilitar a compreensão de textos em sala de aula, mas deve ser complementado com métodos mais avançados nas etapas posteriores.",
+  "imagem": "../images/vlibras.jpg",
+  "categoria": "Libras: Tradução e Interpretação",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "Android; iOS",
+  "autor": "Serviços e Informações do Brasil",
+  "link": "Android,https://play.google.com/store/apps/details?id=com.lavid.vlibrasdroid;iOS,https://apps.apple.com/br/app/vlibras/id1039641615;",
+  "etapas": "Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais"
+}

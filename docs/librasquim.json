@@ -1,0 +1,15 @@
+{
+  "titulo": "LibrasQuim - Dicionário de Libras para Química",
+  "descricao": "O \"LibrasQuim - Dicionário de Libras para Química\" é uma ferramenta de acessibilidade linguística desenvolvida para apoiar alunos surdos, professores e intérpretes de Libras no ensino de química. Através de uma lista de termos comuns da química, o site oferece vídeos que mostram os sinais correspondentes aos termos, facilitando a compreensão e a comunicação dos conceitos químicos em sala de aula.",
+  "orientacao": "Para maximizar o uso da ferramenta, recomenda-se que o professor familiarize-se previamente com os sinais disponíveis no dicionário para incorporá-los de maneira eficaz em suas aulas. Evite utilizar termos ou conceitos que não estejam presentes na lista de sinais sem fornecer uma explicação adicional ou buscar alternativas de sinalização. O site requer conexão à internet, portanto, certifique-se de que a infraestrutura necessária esteja disponível.",
+  "dicas": "Use o LibrasQuim durante explicações de conceitos-chave ou ao apresentar novos termos em química. É especialmente útil em aulas que abordam a tabela periódica ou reações químicas, onde a visualização dos sinais pode reforçar a compreensão dos alunos surdos. Recomenda-se também que seja utilizado em atividades práticas ou laboratoriais, onde a aplicação dos termos em sinais pode ser crucial para a compreensão e a segurança dos alunos.",
+  "etapas_justificativa": "A ferramenta é mais adequada para estudantes a partir do Ensino Fundamental - Anos Finais, que já possuem familiaridade com a leitura e começam a ter contato com a disciplina de química. No Ensino Médio e Ensino Superior, o uso do dicionário torna-se ainda mais relevante, dado o aprofundamento dos conteúdos químicos.",
+  "imagem": "../images/librasquim.jpg",
+  "categoria": "Libras: Dicionários e Glossários",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "Site",
+  "autor": "IFPB",
+  "link": "Site,https://joaopessoa.ifpb.edu.br/librasquim/#!;",
+  "etapas": "Ensino Superior; Ensino Médio; Ensino Fundamental - Anos Finais"
+}

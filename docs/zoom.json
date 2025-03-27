@@ -1,0 +1,15 @@
+{
+  "titulo": "Zoom",
+  "descricao": "O Zoom é uma plataforma de videoconferência amplamente utilizada, que oferece recursos como chat, telefone e quadro branco. Possui legendas automáticas em tempo real, o que facilita a inclusão de pessoas surdas ou com deficiência auditiva em reuniões e aulas. A versão gratuita permite reuniões de até 40 minutos com até 100 participantes, sendo útil para pequenas reuniões e atividades educacionais.",
+  "orientacao": "Para otimizar o uso do Zoom como tecnologia assistiva, ative as legendas automáticas durante as reuniões. Reforce a comunicação visual com o uso de quadros brancos e compartilhamento de tela. Certifique-se de que o áudio seja claro e que todos os participantes falem devagar e pausadamente para melhor transcrição.",
+  "dicas": "Utilize o Zoom para aulas virtuais e discussões em grupo. Incentive os alunos a fazer perguntas pelo chat para garantir que todas as dúvidas sejam respondidas de maneira acessível. Evite agendar reuniões longas na versão gratuita para não interromper a comunicação. Reforce o uso de recursos visuais como slides e imagens para complementar o conteúdo falado.",
+  "etapas_justificativa": "O Zoom oferece ferramentas que facilitam a comunicação em diferentes níveis de ensino, e as legendas automáticas garantem acessibilidade para alunos surdos ou com deficiência auditiva.",
+  "imagem": "../images/zoom.jpg",
+  "categoria": "Videoconferência",
+  "custo": "Freemium",
+  "requer_internet": "Sim",
+  "plataformas": "Android; iOS; Site; Windows",
+  "autor": "Zoom Video Communications",
+  "link": "Site,https://www.zoom.com/pt/products/virtual-meetings/;Android,https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=pt_BR;iOS,https://apps.apple.com/us/app/zoom-workplace/id546505307;Windows,https://zoom.us/download?os=win;",
+  "etapas": "EJA; EJA; EJA; EJA; Ensino Superior; Ensino Superior; Ensino Superior; Ensino Superior; Ensino Médio; Ensino Médio; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Médio"
+}

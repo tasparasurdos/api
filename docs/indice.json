@@ -1,0 +1,190 @@
+[
+  {
+    "titulo": "ACESSIBILIDADE NA CÂMARA: Dicionário de Libras",
+    "arquivo": "acessibilidade-na-camara-dicionario-de-libras.json"
+  },
+  {
+    "titulo": "Ararajuba",
+    "arquivo": "ararajuba.json"
+  },
+  {
+    "titulo": "AsTeRICS Grid",
+    "arquivo": "asterics-grid.json"
+  },
+  {
+    "titulo": "Ava: Transcriptions & Captions",
+    "arquivo": "ava.json"
+  },
+  {
+    "titulo": "Captify: Legendas ao Vivo",
+    "arquivo": "captify.json"
+  },
+  {
+    "titulo": "Cboard",
+    "arquivo": "cboard.json"
+  },
+  {
+    "titulo": "Colibras",
+    "arquivo": "colibras.json"
+  },
+  {
+    "titulo": "Comunicação para surdos",
+    "arquivo": "comunicacao-para-surdos.json"
+  },
+  {
+    "titulo": "Dicionário da Língua Brasileira de Sinais",
+    "arquivo": "dicionario-da-lingua-brasileira-de-sinais.json"
+  },
+  {
+    "titulo": "Dicionário da Língua Brasileira de Sinais V3 - 2011",
+    "arquivo": "dicionario-da-lingua-brasileira-de-sinais-2011.json"
+  },
+  {
+    "titulo": "Dicionário de Sinais da Área de Tecnologia",
+    "arquivo": "dicionario-de-sinais-da-area-de-tecnologia.json"
+  },
+  {
+    "titulo": "Dolphin",
+    "arquivo": "dolphin.json"
+  },
+  {
+    "titulo": "Expressia: Falar e Aprender",
+    "arquivo": "expressia.json"
+  },
+  {
+    "titulo": "Fireflies: AI notetaker",
+    "arquivo": "fireflies.json"
+  },
+  {
+    "titulo": "GitalkText",
+    "arquivo": "gitalktext.json"
+  },
+  {
+    "titulo": "Google Meet",
+    "arquivo": "google-meet.json"
+  },
+  {
+    "titulo": "Hand Talk Tradutor para Libras",
+    "arquivo": "hand-talk.json"
+  },
+  {
+    "titulo": "HelpTalk",
+    "arquivo": "helptalk.json"
+  },
+  {
+    "titulo": "LetMeTalk:Aplicação Grátis CAA",
+    "arquivo": "letmetalk.json"
+  },
+  {
+    "titulo": "Libras Para Todos",
+    "arquivo": "libras-para-todos.json"
+  },
+  {
+    "titulo": "LibrasQuim - Dicionário de Libras para Química",
+    "arquivo": "librasquim.json"
+  },
+  {
+    "titulo": "LibrasTI",
+    "arquivo": "librasti.json"
+  },
+  {
+    "titulo": "Live Transcribe",
+    "arquivo": "live-transcribe.json"
+  },
+  {
+    "titulo": "Matraquinha",
+    "arquivo": "matraquinha.json"
+  },
+  {
+    "titulo": "Microsoft Teams",
+    "arquivo": "microsoft-teams.json"
+  },
+  {
+    "titulo": "Microsoft Translate",
+    "arquivo": "microsoft-translate.json"
+  },
+  {
+    "titulo": "Mudo Que Fala",
+    "arquivo": "mudo-que-fala.json"
+  },
+  {
+    "titulo": "Picto4Me",
+    "arquivo": "picto4me.json"
+  },
+  {
+    "titulo": "Plaphoons",
+    "arquivo": "plaphoons.json"
+  },
+  {
+    "titulo": "Quiz de Libras",
+    "arquivo": "quiz-de-libras.json"
+  },
+  {
+    "titulo": "Rybená Tradutor Libras Voz",
+    "arquivo": "rybena.json"
+  },
+  {
+    "titulo": "SENAI Libras",
+    "arquivo": "senai-libras.json"
+  },
+  {
+    "titulo": "Sinalário em Libras",
+    "arquivo": "sinalario-em-libras.json"
+  },
+  {
+    "titulo": "Skype",
+    "arquivo": "skype.json"
+  },
+  {
+    "titulo": "SpeakLiz: para pessoas com def",
+    "arquivo": "speakliz.json"
+  },
+  {
+    "titulo": "Speech To Text | Voice To Text",
+    "arquivo": "speech-to-text-voice-to-text.json"
+  },
+  {
+    "titulo": "SpeechNotes",
+    "arquivo": "speechnotes.json"
+  },
+  {
+    "titulo": "Spread The Sign",
+    "arquivo": "spread-the-sign.json"
+  },
+  {
+    "titulo": "SymboTalk - AAC Talker",
+    "arquivo": "symbotalk.json"
+  },
+  {
+    "titulo": "Tradutor de Conversas",
+    "arquivo": "tradutor-de-conversas.json"
+  },
+  {
+    "titulo": "Transcreva ao vivo",
+    "arquivo": "transcreva-ao-vivo.json"
+  },
+  {
+    "titulo": "Transcrição da fala para texto",
+    "arquivo": "transcricao-da-fala-para-texto.json"
+  },
+  {
+    "titulo": "TurboScribe",
+    "arquivo": "turboscribe.json"
+  },
+  {
+    "titulo": "Virginia ajuda deficientes",
+    "arquivo": "virginia.json"
+  },
+  {
+    "titulo": "VLibras",
+    "arquivo": "vlibras.json"
+  },
+  {
+    "titulo": "Zapia - Assistente Pessoal IA",
+    "arquivo": "zapia.json"
+  },
+  {
+    "titulo": "Zoom",
+    "arquivo": "zoom.json"
+  }
+]

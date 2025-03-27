@@ -1,0 +1,15 @@
+{
+  "titulo": "Ararajuba",
+  "descricao": "Ararajuba é uma ferramenta online gratuita desenvolvida pelo Centro Tecnológico de Acessibilidade (CTA) do IFRS. Ela oferece funcionalidades de fala para texto e texto para fala, possibilitando que o usuário dite um texto que é transcrito em tempo real ou digite um texto para que a ferramenta o leia em voz alta. Essa tecnologia pode ser especialmente útil para surdos em sala de aula ao proporcionar maior acessibilidade à comunicação escrita e falada.",
+  "orientacao": "Para otimizar o uso da Ararajuba como ferramenta assistiva, utilize-a em conjunto com atividades que demandem conversão de fala para texto ou vice-versa. Certifique-se de que os dispositivos utilizados tenham boa captação de áudio para a função de ditado. Evite ambientes muito ruidosos para garantir a precisão na transcrição do áudio para texto.",
+  "dicas": "Recomenda-se o uso da Ararajuba em atividades de leitura e escrita, como redação ou ditado, além de momentos de estudo em grupo, onde os alunos podem colaborar utilizando a função de transcrição de voz. Evite utilizar a ferramenta em atividades que exijam uma leitura muito técnica, pois a interpretação do áudio pode não ser precisa.",
+  "etapas_justificativa": "A ferramenta é indicada para todas as etapas de ensino devido à sua simplicidade e funcionalidade, promovendo inclusão e acessibilidade em diversos níveis educacionais.",
+  "imagem": "../images/ararajuba.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "Site",
+  "autor": "CTA / IFRS",
+  "link": "Site,https://cta-ifrs.bitbucket.io/ararajuba/;",
+  "etapas": "Ensino Fundamental - Anos Iniciais; Educação Infantil; Ensino Fundamental - Anos Finais; Ensino Médio; Ensino Superior; EJA"
+}

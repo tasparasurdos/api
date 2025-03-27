@@ -1,0 +1,15 @@
+{
+  "titulo": "Dicionário de Sinais da Área de Tecnologia",
+  "descricao": "O 'Dicionário de Sinais da Área de Tecnologia' é um site que oferece cerca de 100 sinais específicos relacionados à tecnologia e informática em Libras. Criado para atender às necessidades de profissionais surdos, tradutores e intérpretes de Libras, bem como estudantes de áreas tecnológicas, o dicionário visa facilitar a tradução e interpretação de termos técnicos, promovendo a inclusão e o desenvolvimento profissional de pessoas surdas. O site também serve como um recurso de consulta para profissionais da área.",
+  "orientacao": "Para obter o máximo da ferramenta, é recomendável que os usuários explorem os sinais disponíveis no site antes de utilizá-los em contextos educacionais ou profissionais. Em sala de aula, o dicionário pode ser utilizado como um recurso de apoio ao ensino de tecnologia, especialmente em disciplinas de informática. Como o site é uma ferramenta de consulta, é importante complementar seu uso com outras metodologias e recursos para garantir uma compreensão mais ampla dos conceitos.",
+  "dicas": "O dicionário é indicado para atividades que envolvam o ensino de tecnologia e informática em Libras, podendo ser utilizado em aulas práticas e teóricas para facilitar a compreensão de termos técnicos. No entanto, deve-se evitar o uso exclusivo do dicionário, complementando com outras ferramentas educativas que abordem diferentes aspectos da área tecnológica.",
+  "etapas_justificativa": "A tecnologia é mais adequada para alunos que já possuem conhecimentos básicos de Libras e que estão em processo de aprofundamento em áreas tecnológicas. Nos anos finais do Ensino Fundamental e no Ensino Médio, o dicionário pode ser utilizado para introduzir e reforçar termos técnicos. No Ensino Superior e na EJA, é uma ferramenta de apoio para cursos que envolvem informática e tecnologia.",
+  "imagem": "../images/dicionario-de-sinais-da-area-de-tecnologia.jpg",
+  "categoria": "Libras: Dicionários e Glossários",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "Site",
+  "autor": "FESAI",
+  "link": "Site,https://www.fesai.com.br/;",
+  "etapas": "Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Superior; EJA"
+}

@@ -1,0 +1,15 @@
+{
+  "titulo": "AsTeRICS Grid",
+  "descricao": "O AsTeRICS Grid é uma ferramenta gratuita e de código aberto para Comunicação Aumentativa e Alternativa (CAA), que pode ser utilizada tanto online quanto offline. Ele permite a criação de tabelas de comunicação personalizáveis e oferece suporte para diferentes tipos de entrada, como toques, rastreamento ocular e até sensores musculares. A aplicação pode ser usada em dispositivos diversos, como PCs, tablets e smartphones, e é compatível com sistemas operacionais Windows, Linux, Android e iOS. Além de comunicação, o AsTeRICS Grid oferece controle de casa inteligente, reprodução de rádios online e vídeos do YouTube.",
+  "orientacao": "Para maximizar o uso do AsTeRICS Grid como ferramenta assistiva, é importante configurar as tabelas de comunicação de acordo com as necessidades individuais dos usuários. Prefira o uso offline para maior confiabilidade, especialmente em ambientes com acesso limitado à internet. Explore as funcionalidades de controle de casa inteligente e multimídia, que podem enriquecer a experiência do usuário.",
+  "dicas": "Utilize o AsTeRICS Grid para facilitar a comunicação em sala de aula, especialmente para alunos com dificuldades de fala. Crie tabelas específicas para atividades escolares, como descrições de tarefas, interações com colegas e rotinas diárias. Recomenda-se o uso em atividades que envolvam comunicação intensa e que demandem adaptações específicas, como apresentações ou trabalhos em grupo.",
+  "etapas_justificativa": "O AsTeRICS Grid é altamente personalizável, o que permite adaptar a ferramenta para diferentes níveis de ensino e necessidades individuais, desde a educação básica até o ensino superior.",
+  "imagem": "../images/asterics-grid.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Não",
+  "plataformas": "Site",
+  "autor": "University of Applied Sciences Technikum Wien",
+  "link": "Site,https://grid.asterics.eu/;",
+  "etapas": "EJA; Ensino Superior; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Educação Infantil"
+}

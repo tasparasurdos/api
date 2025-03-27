@@ -1,0 +1,15 @@
+{
+  "titulo": "Matraquinha",
+  "descricao": "O Matraquinha é um aplicativo de comunicação alternativa, voltado principalmente para autistas, mas também útil para pessoas surdas. Ele permite que os usuários transmitam desejos, emoções e necessidades por meio de cartões que, ao serem clicados, reproduzem uma voz que expressa a mensagem. O aplicativo conta com mais de 250 cartões distribuídos em 9 seções e está disponível em múltiplos idiomas, incluindo Português do Brasil. Funciona tanto online quanto offline.",
+  "orientacao": "Para obter o máximo do Matraquinha, é recomendado que os usuários ou educadores personalizem os cartões com imagens e frases que sejam relevantes para o contexto escolar e cotidiano dos alunos. Além disso, monitore o uso do aplicativo para evitar cliques repetidos que possam sobrecarregar o áudio. Pratique a repetição das palavras ou frases mostradas pelo aplicativo para reforçar a aprendizagem.",
+  "dicas": "Utilize o Matraquinha em atividades de rotina, como ensinar horários, necessidades básicas e comunicação de emoções. O aplicativo é ideal para introduzir novas palavras e conceitos de forma visual e auditiva. Evite usar o aplicativo em momentos que exigem maior concentração em atividades práticas, onde o uso de tecnologia pode distrair o aluno.",
+  "etapas_justificativa": "O Matraquinha é mais indicado para etapas iniciais da educação, onde a comunicação visual e auditiva é crucial para o desenvolvimento da linguagem e compreensão de rotinas.",
+  "imagem": "../images/matraquinha.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Não",
+  "plataformas": "Android; iOS",
+  "autor": "Matraquinha",
+  "link": "Android,https://play.google.com/store/apps/details?id=com.phonegap.matraquinha&hl=pt_BR&gl=US;iOS,https://apps.apple.com/br/app/matraquinha-autismo/id1423586611;",
+  "etapas": "Ensino Médio; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Iniciais; Educação Infantil; Educação Infantil"
+}

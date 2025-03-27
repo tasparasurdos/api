@@ -1,0 +1,15 @@
+{
+  "titulo": "Hand Talk Tradutor para Libras",
+  "descricao": "O 'Hand Talk Tradutor para Libras' é um aplicativo que utiliza personagens virtuais, como Hugo e Maya, para traduzir texto e voz em Língua Brasileira de Sinais (Libras) e Língua de Sinais Americana (ASL). O app, premiado pela ONU, permite que os usuários aprendam e pratiquem Libras de forma divertida e eficiente, seja para se comunicar com surdos, reforçar o vocabulário ou desenvolver novas habilidades linguísticas. O aplicativo também oferece um dicionário de sinais e vídeos educativos.",
+  "orientacao": "Para maximizar o uso do Hand Talk como tecnologia assistiva, recomenda-se utilizar a função de tradução de texto e voz para Libras em situações cotidianas e educacionais. O app pode ser integrado em sala de aula como um recurso complementar para facilitar a comunicação entre surdos e ouvintes. No entanto, é importante ajustar a velocidade de tradução e revisar as traduções para garantir a precisão, especialmente em conteúdos mais complexos.",
+  "dicas": "O aplicativo é indicado para atividades que envolvam a prática de Libras, como exercícios de tradução e compreensão de sinais. Pode ser utilizado para reforçar o aprendizado de vocabulário e facilitar a comunicação em sala de aula. No entanto, deve-se complementar o uso do app com outros recursos de ensino de Libras, pois o Hand Talk pode apresentar limitações em termos de variações de sinais regionais e interpretações mais avançadas.",
+  "etapas_justificativa": "A tecnologia é acessível para diferentes faixas etárias e etapas de ensino, podendo ser utilizada desde a Educação Infantil para introdução de Libras até o Ensino Médio e EJA, onde pode ser empregada para reforço de vocabulário e comunicação. A simplicidade e a abordagem lúdica do aplicativo o tornam adequado para crianças e iniciantes em Libras.",
+  "imagem": "../images/hand-talk.jpg",
+  "categoria": "Libras: Tradução e Interpretação",
+  "custo": "Freemium",
+  "requer_internet": "Não",
+  "plataformas": "Android; iOS",
+  "autor": "HandTalk",
+  "link": "Android,https://play.google.com/store/apps/details?id=br.com.handtalk&hl=pt_BR;iOS,https://apps.apple.com/br/app/hand-talk-tradutor-para-libras/id659816995;",
+  "etapas": "EJA; EJA; Ensino Médio; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Educação Infantil; Educação Infantil; Ensino Fundamental - Anos Iniciais"
+}

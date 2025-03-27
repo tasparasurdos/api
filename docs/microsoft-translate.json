@@ -1,0 +1,15 @@
+{
+  "titulo": "Microsoft Translate",
+  "descricao": "O 'Microsoft Translate' é um aplicativo de tradução pessoal gratuito que suporta mais de 70 idiomas, permitindo a tradução de texto, voz, conversas, fotos e capturas de tela. Pode ser utilizado para transcrever fala em texto e transformar texto em voz, tornando-se uma ferramenta útil para pessoas surdas em diferentes contextos, como sala de aula, reuniões e viagens. O aplicativo também permite o download de idiomas para uso offline, o que amplia sua utilidade em locais sem conexão à internet.",
+  "orientacao": "Para obter o máximo da ferramenta, recomenda-se explorar os recursos de tradução de voz e texto e testar a funcionalidade de transcrição para garantir sua precisão. Em ambientes educacionais, o Microsoft Translate pode ser utilizado para apoiar a compreensão de conteúdo falado, especialmente em aulas com discussões ou apresentações. É importante estar ciente das limitações do aplicativo, como possíveis erros de tradução e a necessidade de conexão estável para o uso de algumas funcionalidades.",
+  "dicas": "O aplicativo é indicado para atividades que envolvam a tradução de conversas ou a transcrição de aulas, podendo ser útil em dinâmicas de grupo e apresentações. No entanto, deve-se evitar confiar exclusivamente no Microsoft Translate em situações que exigem alta precisão, como traduções técnicas ou em idiomas menos comuns, complementando com outras ferramentas ou recursos quando necessário.",
+  "etapas_justificativa": "A tecnologia é mais adequada para alunos que possuem habilidades de leitura e que podem se beneficiar da tradução e transcrição de conteúdos em diferentes idiomas. No Ensino Médio e Superior, o Microsoft Translate pode ser uma ferramenta valiosa para acompanhar aulas e conferências em idiomas estrangeiros. Para a EJA, depende do nível de letramento e das necessidades linguísticas dos estudantes.",
+  "imagem": "../images/microsoft-translate.jpg",
+  "categoria": "Transcrição de Fala",
+  "custo": "Grátis",
+  "requer_internet": "Não",
+  "plataformas": "Android; iOS; Windows",
+  "autor": "Microsoft",
+  "link": "Android,https://play.google.com/store/apps/details?id=com.microsoft.translator;iOS,https://itunes.apple.com/app/microsoft-translator/id1018949559;Windows,https://www.microsoft.com/store/productId/9WZDNCRFJ3PG;",
+  "etapas": "EJA; EJA; EJA; Ensino Superior; Ensino Superior; Ensino Superior; Ensino Médio; Ensino Médio; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais"
+}

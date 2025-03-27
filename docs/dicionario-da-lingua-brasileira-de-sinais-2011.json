@@ -1,0 +1,15 @@
+{
+  "titulo": "Dicionário da Língua Brasileira de Sinais V3 - 2011",
+  "descricao": "O 'Dicionário da Língua Brasileira de Sinais V3 - 2011' é um dicionário bilíngue, Português x Libras e Libras x Português, que oferece 8.000 sinais em vídeos animados. Criado por especialistas, o dicionário serve como uma ferramenta de apoio à educação de alunos surdos e como referência para pais, professores e a comunidade em geral. Disponível online através do site do INES, o dicionário é pioneiro na apresentação da Libras em formato virtual, facilitando a visualização dos sinais e sua aplicabilidade em contextos reais.",
+  "orientacao": "Para maximizar o uso da ferramenta, é recomendado que os usuários explorem as diferentes funcionalidades de busca por palavra, assunto, letra do alfabeto e configuração de mão. Em sala de aula, é importante utilizar o dicionário como complemento a outras atividades educativas, garantindo que os estudantes compreendam o contexto de uso dos sinais apresentados. O uso offline pode ser limitado, portanto, certifique-se de ter acesso à internet para aproveitar todos os recursos disponíveis.",
+  "dicas": "O dicionário é indicado para atividades de aprendizagem de Libras e para o ensino de novos vocábulos em sala de aula. Pode ser utilizado para exercícios de tradução e compreensão de frases em Libras. No entanto, não é recomendado como única fonte de aprendizado, especialmente para áreas que requerem uma abordagem prática da língua de sinais. Complementar com atividades interativas pode melhorar a absorção do conteúdo.",
+  "etapas_justificativa": "O dicionário é mais adequado para estudantes que já possuem conhecimentos básicos de Libras e desejam expandir seu vocabulário. Nos anos finais do Ensino Fundamental e no Ensino Médio, pode ser utilizado para introduzir novos sinais e contextos de uso. No Ensino Superior e na EJA, é uma ferramenta de apoio para cursos que envolvem a tradução e interpretação de Libras.",
+  "imagem": "../images/dicionario-da-lingua-brasileira-de-sinais-2011.jpg",
+  "categoria": "Libras: Dicionários e Glossários",
+  "custo": "Grátis",
+  "requer_internet": "Parcialmente",
+  "plataformas": "Site",
+  "autor": "Instituto Nacional de Educação de Surdos - INES",
+  "link": "Site,http://www.acessibilidadebrasil.org.br/libras_3/;",
+  "etapas": "EJA; Ensino Superior; Ensino Médio; Ensino Fundamental - Anos Finais"
+}

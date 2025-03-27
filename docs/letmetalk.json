@@ -1,0 +1,15 @@
+{
+  "titulo": "LetMeTalk:Aplicação Grátis CAA",
+  "descricao": "LetMeTalk é uma aplicação gratuita de Comunicação Alternativa e Aumentativa (CAA), projetada para apoiar a comunicação de pessoas com dificuldades de fala, incluindo surdos. O aplicativo permite alinhar imagens para formar frases significativas, utilizando uma base de dados com mais de 9000 imagens do ARASAAC. O LetMeTalk é totalmente funcional offline, o que o torna adequado para uso em diversos ambientes, como escolas e centros de saúde.",
+  "orientacao": "Para maximizar o uso como ferramenta assistiva, personalize as categorias e imagens de acordo com as necessidades específicas do usuário. Certifique-se de que o aplicativo esteja configurado corretamente antes de usá-lo em situações ao vivo, como em sala de aula. Treine o usuário para navegar pelas categorias e selecionar imagens para formar frases.",
+  "dicas": "Utilize o LetMeTalk para facilitar a comunicação durante atividades de grupo, permitindo que os alunos participem ativamente das discussões. Reforce o aprendizado de novos conceitos associando imagens às palavras correspondentes. Evite sobrecarregar o aplicativo com muitas categorias de uma só vez; introduza novos conteúdos gradualmente para evitar confusão.",
+  "etapas_justificativa": "O LetMeTalk é adequado para diferentes níveis de ensino, mas seu uso é especialmente benéfico em etapas iniciais, onde a comunicação básica é fundamental para o desenvolvimento acadêmico e social.",
+  "imagem": "../images/letmetalk.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Não",
+  "plataformas": "iOS",
+  "autor": "AppNotize UG",
+  "link": "iOS,https://apps.apple.com/br/app/letmetalk-aplica%C3%A7%C3%A3o-gr%C3%A1tis-caa/id919990138?platform=ipad;",
+  "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais"
+}

@@ -1,0 +1,15 @@
+{
+  "titulo": "Virginia ajuda deficientes",
+  "descricao": "O 'Virginia ajuda deficientes' é um aplicativo que transforma tablets ou smartphones em comunicadores, permitindo que pessoas com dificuldades na fala, como indivíduos com deficiência congênita, adquirida ou temporária, possam se comunicar. Através da síntese vocal do dispositivo, o usuário pode fazer pedidos e comunicar necessidades. O app é especialmente útil para pessoas sem cordas vocais ou que estão internadas e não conseguem se comunicar verbalmente.",
+  "orientacao": "Para obter o máximo da ferramenta como tecnologia assistiva, recomenda-se configurar o dispositivo com o mecanismo de síntese de fala mais adequado, como o Google TTS. O aplicativo pode ser utilizado em sala de aula para ajudar alunos com dificuldades de comunicação a expressarem suas necessidades. É importante testar o app em diferentes cenários para garantir que a comunicação seja clara e eficaz, e considerar o uso de figuras ou símbolos para complementar a comunicação.",
+  "dicas": "O aplicativo é indicado para atividades que envolvam a necessidade de comunicação básica e expressiva, como pedir ajuda, água ou comida. Pode ser utilizado em contextos educacionais para facilitar a interação entre o aluno e o professor. No entanto, deve-se evitar confiar exclusivamente no aplicativo em situações mais complexas, complementando com outros recursos de comunicação assistiva.",
+  "etapas_justificativa": "A tecnologia é acessível para diferentes faixas etárias e pode ser utilizada para facilitar a comunicação de alunos com dificuldades de fala, desde a Educação Infantil até a EJA. O aplicativo pode ser especialmente útil para alunos com deficiências que afetam a fala e a comunicação.",
+  "imagem": "../images/virginia.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Parcialmente",
+  "plataformas": "Android",
+  "autor": "Cisano",
+  "link": "Android,https://play.google.com/store/apps/details?id=app.virginia.firstrelease&hl=pt_BR;",
+  "etapas": "EJA; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Educação Infantil"
+}

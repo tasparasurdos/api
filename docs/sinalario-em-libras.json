@@ -1,0 +1,15 @@
+{
+  "titulo": "Sinalário em Libras",
+  "descricao": "O 'Sinalário em Libras' é um aplicativo que lista palavras em Língua Portuguesa e mostra o sinal correspondente em Libras através de vídeos. O objetivo é promover a comunicação entre surdos e ouvintes, utilizando processos de gamificação e métricas de ensino baseadas na BNCC (Base Nacional Comum Curricular). A tecnologia busca resolver a dificuldade de comunicação e aquisição linguística do aluno surdo de forma atraente, simples e divertida.",
+  "orientacao": "Para obter o máximo da ferramenta, é recomendável utilizar o aplicativo em ambientes com boa conexão à internet, pois a lentidão relatada por alguns usuários pode prejudicar a experiência. Em sala de aula, o sinalário pode ser usado como um complemento no ensino de Libras, auxiliando na memorização dos sinais. Evite depender exclusivamente do aplicativo para o ensino, combinando-o com outras metodologias e recursos educativos.",
+  "dicas": "O aplicativo é indicado para atividades que envolvam a introdução de novos vocábulos em Libras, podendo ser utilizado em dinâmicas de grupo ou como recurso de reforço em atividades de memorização. No entanto, não é recomendado para atividades que exigem rapidez na consulta de sinais devido à lentidão reportada por alguns usuários.",
+  "etapas_justificativa": "A tecnologia é adequada para alunos em processo de aquisição linguística e que estão começando a aprender Libras. Nos anos iniciais e finais do Ensino Fundamental, o sinalário pode ajudar na introdução e reforço de vocabulário básico. Em níveis mais avançados, outras ferramentas mais complexas podem ser necessárias.",
+  "imagem": "../images/sinalario-em-libras.jpg",
+  "categoria": "Libras: Aprendizagem",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "Android",
+  "autor": "Bilingua Consultoria",
+  "link": "Android,https://play.google.com/store/apps/details?id=com.bilingua.sinalario;",
+  "etapas": "Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais"
+}

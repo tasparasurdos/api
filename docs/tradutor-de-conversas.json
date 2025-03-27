@@ -1,0 +1,15 @@
+{
+  "titulo": "Tradutor de Conversas",
+  "descricao": "O 'Tradutor de Conversas' é um aplicativo que oferece tradução instantânea de voz e texto, facilitando a comunicação em ambientes multilíngues, como viagens, reuniões de negócios e conversas diárias. Com funcionalidades como tradução por voz, interpretação, cópia e compartilhamento, o app é útil para pessoas surdas que precisam de suporte na comunicação em diferentes contextos. A função de transcrição de fala em texto também é uma possibilidade, tornando o aplicativo versátil em diversas situações.",
+  "orientacao": "Para maximizar o uso da ferramenta, recomenda-se testar as funcionalidades de tradução de voz e texto em diferentes ambientes para garantir a precisão. O aplicativo pode ser utilizado em sala de aula para transcrever e traduzir diálogos, especialmente em aulas de idiomas ou em discussões multilíngues. É importante estar ciente de possíveis atrasos na tradução, especialmente em sessões prolongadas, e adaptar o uso conforme necessário.",
+  "dicas": "O aplicativo é indicado para atividades que envolvam tradução e transcrição em tempo real, como apresentações e discussões em grupo. Pode ser utilizado para facilitar a comunicação entre alunos e professores em contextos multilíngues. No entanto, deve-se evitar confiar exclusivamente no aplicativo para traduções complexas ou em situações que exigem alta precisão, complementando com outras ferramentas.",
+  "etapas_justificativa": "A tecnologia é mais adequada para alunos que já possuem habilidades de leitura e que podem se beneficiar da tradução e transcrição de conteúdos falados. No Ensino Médio e Superior, o Tradutor de Conversas pode ser uma ferramenta útil para acompanhar discussões e aulas em diferentes idiomas. Para a EJA, depende do nível de letramento e das necessidades linguísticas dos estudantes.",
+  "imagem": "../images/tradutor-de-conversas.jpg",
+  "categoria": "Transcrição de Fala",
+  "custo": "Freemium",
+  "requer_internet": "Sim",
+  "plataformas": "Android",
+  "autor": "idealappcenter",
+  "link": "Android,https://play.google.com/store/apps/details?id=com.translate.talkingtranslator;",
+  "etapas": "Ensino Médio; Ensino Fundamental - Anos Finais; EJA; Ensino Superior"
+}

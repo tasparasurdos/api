@@ -1,0 +1,15 @@
+{
+  "titulo": "Comunicação para surdos",
+  "descricao": "O aplicativo \"Comunicação para surdos\" é projetado para facilitar a comunicação entre surdos ou deficientes auditivos e outras pessoas. Ele converte fala em texto com um único botão, permitindo que palavras faladas sejam transcritas em tempo real. É usado em ambientes de saúde, como hospitais, além de suportar vários idiomas, e é ideal para situações onde a comunicação clara é essencial.",
+  "orientacao": "Para otimizar o uso como ferramenta assistiva, ajuste o tamanho do texto para melhorar a legibilidade. Utilize a função de gravação para salvar conversas importantes para referência futura. Em ambientes de saúde, o aplicativo pode ser usado para garantir que a comunicação com pacientes surdos seja clara e eficaz.",
+  "dicas": "O aplicativo é recomendado para atividades que exigem comunicação direta, como atendimento individualizado, orientação escolar e explicações detalhadas. Não é ideal para situações que demandem comunicação em grupo ou respostas rápidas, como discussões em sala de aula. Utilize a função de histórico para rever conversas anteriores, o que pode ser útil para acompanhamento educacional.",
+  "etapas_justificativa": "A tecnologia oferece suporte adequado para diferentes etapas de aprendizado, auxiliando tanto na comunicação básica quanto em situações mais complexas que demandam acompanhamento e revisão de informações.",
+  "imagem": "../images/comunicacao-para-surdos.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "iOS",
+  "autor": "ryo muranaka",
+  "link": "iOS,https://apps.apple.com/br/app/comunica%C3%A7%C3%A3o-para-surdos/id1638036122?l=en-GB?l=en-GB;",
+  "etapas": "Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Educação Infantil"
+}

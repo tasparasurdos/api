@@ -1,0 +1,15 @@
+{
+  "titulo": "SENAI Libras",
+  "descricao": "O SENAI LIBRAS é um aplicativo que funciona como glossário de termos técnicos acessíveis em formato 3D. Com milhares de vocábulos, o app foi desenvolvido para apoiar docentes, alunos e profissionais do SENAI na tradução de termos técnicos da língua portuguesa para Libras. A tecnologia é uma ferramenta importante para otimizar os processos de comunicação em ambientes educacionais, especialmente em cursos de educação profissional, facilitando o acesso de pessoas com deficiência auditiva/surdas ao conteúdo técnico.",
+  "orientacao": "Para maximizar o uso da ferramenta, é importante que o usuário explore as diferentes áreas técnicas disponíveis no aplicativo. Ao utilizar o app em sala de aula, é recomendado verificar previamente se o termo técnico específico está disponível no glossário. Evite depender exclusivamente do app, complementando-o com outros recursos de Libras e garantindo a disponibilidade de uma boa conexão à internet, já que algumas funcionalidades podem não estar disponíveis offline.",
+  "dicas": "O aplicativo é indicado para uso em cursos técnicos e profissionalizantes, onde há uma necessidade constante de tradução de termos específicos. Pode ser utilizado durante aulas práticas e teóricas para facilitar a compreensão de conceitos técnicos. No entanto, não é recomendado como único recurso em áreas ainda não cobertas pelo app, como a saúde, ou em contextos onde a Libras do cotidiano é suficiente.",
+  "etapas_justificativa": "A tecnologia é especialmente útil em cursos técnicos e profissionalizantes, que são mais comuns a partir do Ensino Médio e na EJA. No Ensino Superior, também pode ser aplicada em cursos que exigem a compreensão de termos técnicos específicos. Não é recomendada para a Educação Infantil e os primeiros anos do Ensino Fundamental, onde o foco está no aprendizado básico da Libras.",
+  "imagem": "../images/senai-libras.jpg",
+  "categoria": "Libras: Dicionários e Glossários",
+  "custo": "Grátis",
+  "requer_internet": "Parcialmente",
+  "plataformas": "Android; iOS",
+  "autor": "Senai Nacional",
+  "link": "Android,https://play.google.com/store/apps/details?id=com.senailibras&hl=pt_BR;iOS,https://apps.apple.com/br/app/senai-libras/id1480431650;",
+  "etapas": "Ensino Médio; Ensino Médio; Ensino Superior; EJA; EJA; Ensino Superior"
+}

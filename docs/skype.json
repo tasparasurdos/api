@@ -1,0 +1,15 @@
+{
+  "titulo": "Skype",
+  "descricao": "Skype é um serviço de comunicação que permite chamadas de vídeo e voz, mensagens instantâneas e compartilhamento de arquivos. Ele oferece legendas ao vivo e tradução de chamadas, facilitando a inclusão de surdos e pessoas com deficiência auditiva. A versão gratuita permite reuniões com até 100 participantes sem limite de tempo.",
+  "orientacao": "Para obter o máximo do Skype como ferramenta assistiva, sempre ative as legendas ao vivo durante chamadas e reuniões. Aproveite o recurso de tradução de chamadas para facilitar a comunicação com falantes de diferentes idiomas. Garanta que todos os participantes falem de forma clara e pausada para melhorar a qualidade das legendas.",
+  "dicas": "Use o Skype para aulas online, reuniões de grupo e sessões de tutoria. Incentive os alunos a utilizar as mensagens instantâneas para tirar dúvidas e fazer perguntas durante as aulas. Reforce o uso de recursos visuais, como compartilhamento de tela, para complementar a comunicação falada. Evite sobrecarregar as reuniões com muitos participantes para garantir que as legendas sejam precisas e legíveis.",
+  "etapas_justificativa": "As ferramentas de acessibilidade do Skype, como legendas ao vivo e tradução de chamadas, tornam-no adequado para diversas etapas de ensino, garantindo que alunos surdos ou com deficiência auditiva possam participar de maneira inclusiva.",
+  "imagem": "../images/skype.jpg",
+  "categoria": "Videoconferência",
+  "custo": "Freemium",
+  "requer_internet": "Sim",
+  "plataformas": "Android; iOS; Site; Windows",
+  "autor": "Microsoft Corporation",
+  "link": "Site,https://www.skype.com/pt-br/;Android,https://play.google.com/store/apps/details?id=com.skype.raider&hl=pt_BR;iOS,https://apps.apple.com/us/app/skype/id304878510;Windows,https://apps.microsoft.com/detail/9wzdncrfj364?hl=pt-br&gl=US;",
+  "etapas": "Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Médio; Ensino Médio; Ensino Médio; Ensino Superior; Ensino Superior; Ensino Superior; EJA; EJA; EJA; EJA; Ensino Superior"
+}

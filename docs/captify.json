@@ -1,0 +1,15 @@
+{
+  "titulo": "Captify: Legendas ao Vivo",
+  "descricao": "O Captify é um aplicativo que utiliza o microfone do telefone e inteligência artificial avançada para transformar o discurso em texto em tempo real, criando legendas ao vivo. A tecnologia é projetada para auxiliar pessoas surdas ou com deficiência auditiva, proporcionando uma experiência de comunicação mais inclusiva em diversas situações. O aplicativo é 100% gratuito, suporta 100 idiomas e funciona offline, garantindo acessibilidade em qualquer lugar. Além disso, o Captify prioriza a privacidade dos usuários.",
+  "orientacao": "Para maximizar o uso do Captify em sala de aula, posicione o microfone do telefone próximo ao orador para uma melhor captação de áudio. Use o aplicativo em ambientes com baixo ruído de fundo para garantir maior precisão nas transcrições. Explique aos alunos como usar o aplicativo em diferentes contextos, como durante apresentações ou debates.",
+  "dicas": "Utilize o Captify durante aulas expositivas, apresentações de alunos ou palestras para que alunos surdos possam acompanhar as falas em tempo real. O aplicativo também pode ser útil em atividades em grupo, permitindo que todos os alunos acompanhem as discussões. Evite utilizar o Captify em atividades práticas ou dinâmicas onde o uso contínuo de texto pode ser uma distração.",
+  "etapas_justificativa": "O Captify é mais indicado para etapas onde a compreensão oral é essencial e a necessidade de acompanhamento em tempo real é maior, como em aulas expositivas e apresentações.",
+  "imagem": "../images/captify.jpg",
+  "categoria": "Transcrição de Fala",
+  "custo": "Grátis",
+  "requer_internet": "Sim",
+  "plataformas": "iOS",
+  "autor": "Inquiry Health LLC",
+  "link": "iOS,https://apps.apple.com/br/app/captify-legendas-ao-vivo/id6449643108?platform=iphone;",
+  "etapas": "EJA; Ensino Superior; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Educação Infantil"
+}

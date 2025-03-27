@@ -1,0 +1,15 @@
+{
+  "titulo": "Plaphoons",
+  "descricao": "Plaphoons é uma ferramenta de comunicação assistiva voltada para pessoas com deficiências físicas, como paralisia cerebral, transtornos do espectro autista (TEA) e síndrome de Down. Além de ajudar na comunicação, também pode ser utilizada para o aprendizado de leitura e escrita, e no controle do computador para pessoas com dificuldades motoras. Plaphoons possui versões para Windows e Android, sendo especialmente útil em tablets.",
+  "orientacao": "Para obter o máximo da ferramenta, é importante personalizar os comunicadores de acordo com as necessidades individuais do usuário. No caso da versão Android, é recomendado evitar o uso de pictogramas muito grandes para não sobrecarregar o programa. A configuração adequada das opções de controle é essencial para usuários com dificuldades motoras.",
+  "dicas": "Plaphoons pode ser utilizado em atividades de sala de aula que envolvem comunicação alternativa e aumentativa, auxiliando alunos com dificuldades motoras e de fala a interagir com os colegas e participar ativamente das atividades. Recomenda-se o uso em atividades que necessitem de suporte visual e comunicação facilitada. Não é ideal para atividades que demandam respostas rápidas e em tempo real, devido à necessidade de configuração e ajustes.",
+  "etapas_justificativa": "A tecnologia é flexível e pode ser adaptada para diferentes níveis de ensino, auxiliando na inclusão de alunos com necessidades especiais ao longo de sua trajetória educacional.",
+  "imagem": "../images/plaphoons.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Parcialmente",
+  "plataformas": "Android; Windows",
+  "autor": "Jordi Lagares Roset",
+  "link": "Android,https://play.google.com/store/apps/details?id=com.projectefressa.Plaphoons&hl=pt_BR;Windows,https://projectefressa.blogspot.com/2016/01/plaphoons-download.html;",
+  "etapas": "Ensino Médio; Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Iniciais; Educação Infantil; Educação Infantil"
+}

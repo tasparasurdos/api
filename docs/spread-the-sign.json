@@ -1,0 +1,15 @@
+{
+  "titulo": "Spread The Sign",
+  "descricao": "O 'Spread The Sign' é o maior dicionário de línguas gestuais do mundo, com mais de 200.000 gestos em diversas línguas de sinais, incluindo a Libras. O aplicativo possibilita a tradução de palavras para diferentes línguas de sinais através de vídeos, tornando-se uma importante ferramenta de acessibilidade para pessoas surdas. É especialmente útil em contextos educacionais, permitindo que estudantes surdos aprendam ou comparem gestos em diversas línguas de sinais, enriquecendo sua compreensão cultural e linguística.",
+  "orientacao": "Para obter o máximo da ferramenta, é recomendável que os usuários explorem as diversas línguas de sinais disponíveis no aplicativo e aproveitem a funcionalidade de tradução de palavras para diferentes contextos. No entanto, é importante estar ciente de que o aplicativo pode não incluir todos os regionalismos da Libras, e revisar os vídeos várias vezes pode ser necessário. Uma conexão estável à internet é fundamental, pois o app não oferece suporte completo offline.",
+  "dicas": "O aplicativo é recomendado para uso em aulas de idiomas ou em atividades de inclusão, onde a comparação entre diferentes línguas de sinais pode enriquecer o aprendizado. Pode ser particularmente útil em atividades que incentivam a pesquisa e a descoberta de novos gestos. No entanto, deve-se evitar confiar exclusivamente no aplicativo em regiões com variações significativas de Libras ou em contextos onde o aplicativo não oferece cobertura completa.",
+  "etapas_justificativa": "A tecnologia é mais adequada para alunos que já possuem habilidades básicas de Libras e estão interessados em expandir seu conhecimento em outras línguas de sinais. No Ensino Médio e Superior, o aplicativo pode complementar cursos de tradução e interpretação. Para a EJA, pode ser uma ferramenta de apoio, dependendo do nível de letramento em Libras.",
+  "imagem": "../images/spread-the-sign.jpg",
+  "categoria": "Libras: Dicionários e Glossários",
+  "custo": "Freemium",
+  "requer_internet": "Parcialmente",
+  "plataformas": "Android; Site",
+  "autor": "Europeiskt Teckenspråkcenter",
+  "link": "Site,https://www.spreadthesign.com/pt.br/search/;Android,https://play.google.com/store/apps/details?id=com.spreadthesign.androidapp_paid&hl=pt_BR&gl=BR;",
+  "etapas": "Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Médio; Ensino Superior; Ensino Superior; EJA; EJA"
+}

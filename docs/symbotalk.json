@@ -1,0 +1,15 @@
+{
+  "titulo": "SymboTalk - AAC Talker",
+  "descricao": "O 'SymboTalk - AAC Talker' é um sistema de comunicação aumentativa e alternativa (AAC) que utiliza símbolos para facilitar a comunicação de pessoas que possuem dificuldades na fala, como autistas, pessoas com síndrome de Down, ELA, entre outros. Através de pranchas de comunicação personalizáveis, os usuários podem selecionar símbolos que são convertidos em fala. O site permite a criação de pranchas e símbolos próprios, além de oferecer uma biblioteca com mais de 60.000 imagens para escolher.",
+  "orientacao": "Para obter o máximo da ferramenta como tecnologia assistiva, é importante configurar os símbolos e pranchas de acordo com as necessidades individuais do usuário. Utilize as funções de personalização para adicionar imagens e gravar áudios específicos que facilitem a comunicação. Certifique-se de configurar o modo de acesso limitado para usuários que necessitam de assistência.",
+  "dicas": "Recomenda-se o uso do SymboTalk em atividades de comunicação diárias e em sala de aula para facilitar a interação dos alunos com seus colegas e professores. É importante que os professores estejam familiarizados com a ferramenta para auxiliar os alunos durante o uso. A funcionalidade de subboards pode ser utilizada para organizar diferentes contextos de comunicação, como escola, casa e lazer.",
+  "etapas_justificativa": "A tecnologia é especialmente útil para crianças que estão desenvolvendo habilidades de comunicação, oferecendo suporte visual e auditivo para facilitar a interação. As pranchas de símbolos podem ser usadas para auxiliar na expressão de necessidades e sentimentos, promovendo a inclusão social e educacional.",
+  "imagem": "../images/symbotalk.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Freemium",
+  "requer_internet": "Não",
+  "plataformas": "Site",
+  "autor": "Elad Elram",
+  "link": "Site,https://www.symbotalkapp.com/home;",
+  "etapas": "Ensino Fundamental - Anos Iniciais; Educação Infantil"
+}

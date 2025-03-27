@@ -1,0 +1,15 @@
+{
+  "titulo": "Cboard",
+  "descricao": "Cboard é um aplicativo web gratuito de Comunicação Aumentativa e Alternativa (CAA) voltado para crianças e adultos com problemas de fala e linguagem. Ele auxilia na comunicação utilizando símbolos e conversão de texto em fala. O aplicativo é acessível em várias plataformas, incluindo desktops, tablets e celulares, e pode ser personalizado para atender às necessidades específicas de cada usuário.",
+  "orientacao": "Para obter o máximo do Cboard como ferramenta assistiva, personalize as pranchas de comunicação de acordo com as necessidades dos alunos, adicionando símbolos relevantes. Utilize o suporte offline em dispositivos compatíveis para garantir acesso contínuo, mesmo sem internet. Revise periodicamente as pranchas para adaptar conforme o progresso do aluno.",
+  "dicas": "O Cboard é recomendado para atividades de comunicação e expressão, especialmente em situações onde o aluno necessita se expressar visualmente. É útil em atividades de interação social, jogos educativos e construção de frases. Evite usá-lo em atividades que demandem uma comunicação mais rápida e fluida, onde o uso de símbolos possa ser limitado.",
+  "etapas_justificativa": "O Cboard é flexível e pode ser adaptado para diversas idades e níveis de educação, permitindo uma personalização que atende às necessidades específicas dos alunos em diferentes etapas.",
+  "imagem": "../images/cboard.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Não",
+  "plataformas": "Android; iOS; Site; Windows",
+  "autor": "Cboard org",
+  "link": "Site,https://app.cboard.io/board/root;Android,https://play.google.com/store/apps/details?id=com.unicef.cboard;iOS,https://apps.apple.com/gb/app/aac-cboard-app/id6453683048;Windows,https://apps.microsoft.com/store/detail/XP9M5KQV699FLR;",
+  "etapas": "Ensino Médio; Educação Infantil; Educação Infantil; Educação Infantil; Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Finais; Ensino Médio; Ensino Médio; Ensino Médio; EJA; EJA; EJA; EJA"
+}

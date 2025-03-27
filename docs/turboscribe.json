@@ -1,0 +1,15 @@
+{
+  "titulo": "TurboScribe",
+  "descricao": "TurboScribe é um serviço de transcrição por IA que converte áudio e vídeo em texto com alta precisão (99,8%) em mais de 98 idiomas. Ele oferece transcrição ilimitada de arquivos de áudio e vídeo, sendo útil para surdos ou deficientes auditivos ao transcrever conteúdo falado em texto. O plano gratuito permite 3 transcrições diárias, cada uma com até 30 minutos.",
+  "orientacao": "Para obter o máximo da ferramenta, sempre certifique-se de usar áudio claro e limpo para melhorar a precisão das transcrições. Use o recurso de reconhecimento de locutores para identificar diferentes vozes em reuniões ou aulas. Lembre-se de que o plano gratuito tem limitações de tempo e quantidade de transcrições, então planeje seu uso de acordo.",
+  "dicas": "Utilize o TurboScribe para transcrever palestras, aulas e reuniões, tornando o conteúdo acessível para alunos surdos. Recomenda-se utilizar a ferramenta em situações de aprendizagem onde o conteúdo verbal é essencial. Pode ser útil em estudos de grupo, permitindo que os alunos revisem as transcrições posteriormente.",
+  "etapas_justificativa": "A capacidade de transcrever áudio e vídeo em texto com alta precisão torna o TurboScribe uma ferramenta valiosa em diversas etapas de ensino, especialmente onde há grande ênfase no conteúdo falado.",
+  "imagem": "../images/turboscribe.jpg",
+  "categoria": "Transcrição de Fala",
+  "custo": "Freemium",
+  "requer_internet": "Sim",
+  "plataformas": "Site",
+  "autor": "TurboScribe",
+  "link": "Site,https://turboscribe.ai/pt/free-tools;",
+  "etapas": "EJA; Ensino Superior; Ensino Médio; Ensino Fundamental - Anos Finais"
+}

@@ -1,0 +1,15 @@
+{
+  "titulo": "Mudo Que Fala",
+  "descricao": "\"Mudo Que Fala\" é um aplicativo desenvolvido para auxiliar pessoas que não podem falar, permitindo a conversão de texto em voz. Ele é útil para surdos que não dominam a Libras, mas são alfabetizados em português, e para aqueles que precisam de um suporte para a comunicação, como pessoas que passaram por cirurgias ou têm outras limitações temporárias ou permanentes na fala. O aplicativo oferece categorias de palavras pré-definidas e a possibilidade de adicionar novas palavras, com a reprodução do som correspondente.",
+  "orientacao": "Para obter o máximo proveito do aplicativo, personalize as palavras e categorias de acordo com as necessidades diárias do usuário. O aplicativo pode ser utilizado tanto em ambientes sociais quanto em contextos educativos. Certifique-se de configurar corretamente o idioma e as vozes disponíveis, considerando as preferências de gênero e estilo de voz do usuário. Além disso, aproveite a funcionalidade offline para garantir a comunicação mesmo sem conexão com a internet.",
+  "dicas": "\"Mudo Que Fala\" pode ser integrado em atividades pedagógicas que envolvam comunicação alternativa. É especialmente útil em situações onde os alunos precisam expressar suas necessidades, como em atividades de interação social ou em exercícios de leitura e escrita. O aplicativo também pode ser utilizado em sala de aula para ajudar na inclusão de alunos com deficiências de comunicação. No entanto, é importante que o professor monitore o uso do app para garantir que ele está sendo utilizado de forma eficiente.",
+  "etapas_justificativa": "O aplicativo é mais adequado para alunos que estão em processo de desenvolvimento da comunicação verbal ou que possuem limitações temporárias ou permanentes de fala. Nas etapas iniciais, ele pode ser utilizado para facilitar a comunicação e a interação com os colegas e professores, enquanto nas etapas mais avançadas ele pode ajudar na expressão de pensamentos e ideias complexas.",
+  "imagem": "../images/mudo-que-fala.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Grátis",
+  "requer_internet": "Não",
+  "plataformas": "Android",
+  "autor": "Robson dos Santos Ribeiro",
+  "link": "Android,https://play.google.com/store/apps/details?id=com.mutespeak.robson.mutespeak3;",
+  "etapas": "Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Educação Infantil"
+}

@@ -1,0 +1,220 @@
+{
+  "Transcrição de Fala": {
+    "descricao": "As tecnologias de Transcrição de Fala são ferramentas essenciais para a inclusão de surdos e deficientes auditivos em ambientes educacionais, pois convertem fala em texto em tempo real. Essas ferramentas são particularmente úteis em aulas expositivas, palestras e ambientes onde o áudio é crucial para a compreensão. No entanto, é importante garantir que a precisão das transcrições seja verificada, especialmente em ambientes com ruído. Essas tecnologias são recomendadas a partir do Ensino Fundamental - Anos Finais, pois a transcrição em tempo real requer que os alunos já possuam um nível avançado de leitura. No Ensino Médio, Ensino Superior e EJA, elas continuam sendo eficazes, proporcionando acessibilidade em aulas mais complexas e discussões acadêmicas.",
+    "tecnologias": [
+      {
+        "titulo": "Ava: Transcriptions & Captions",
+        "arquivo": "ava.json"
+      },
+      {
+        "titulo": "Captify: Legendas ao Vivo",
+        "arquivo": "captify.json"
+      },
+      {
+        "titulo": "Dicionário da Língua Brasileira de Sinais",
+        "arquivo": "dicionario-da-lingua-brasileira-de-sinais.json"
+      },
+      {
+        "titulo": "Fireflies: AI notetaker",
+        "arquivo": "fireflies.json"
+      },
+      {
+        "titulo": "GitalkText",
+        "arquivo": "gitalktext.json"
+      },
+      {
+        "titulo": "Live Transcribe",
+        "arquivo": "live-transcribe.json"
+      },
+      {
+        "titulo": "Microsoft Translate",
+        "arquivo": "microsoft-translate.json"
+      },
+      {
+        "titulo": "Speech To Text | Voice To Text",
+        "arquivo": "speech-to-text-voice-to-text.json"
+      },
+      {
+        "titulo": "SpeechNotes",
+        "arquivo": "speechnotes.json"
+      },
+      {
+        "titulo": "Tradutor de Conversas",
+        "arquivo": "tradutor-de-conversas.json"
+      },
+      {
+        "titulo": "Transcreva ao vivo",
+        "arquivo": "transcreva-ao-vivo.json"
+      },
+      {
+        "titulo": "TurboScribe",
+        "arquivo": "turboscribe.json"
+      }
+    ]
+  },
+  "Libras: Dicionários e Glossários": {
+    "descricao": "As ferramentas de Libras: Dicionários e Glossários desempenham um papel vital no aprendizado e aprimoramento do vocabulário em Libras para estudantes e professores. Elas são utilizadas para consultas rápidas durante as aulas e como material de apoio no aprendizado de novos sinais. É fundamental que os glossários estejam atualizados e adequados ao nível de conhecimento dos alunos. Essas tecnologias são recomendadas desde o Ensino Fundamental - Anos Iniciais, passando pelos Anos Finais, Ensino Médio e EJA, pois são importantes para todas as fases do aprendizado de Libras, do básico ao avançado.",
+    "tecnologias": [
+      {
+        "titulo": "ACESSIBILIDADE NA CÂMARA: Dicionário de Libras",
+        "arquivo": "acessibilidade-na-camara-dicionario-de-libras.json"
+      },
+      {
+        "titulo": "Colibras",
+        "arquivo": "colibras.json"
+      },
+      {
+        "titulo": "Dicionário da Língua Brasileira de Sinais V3 - 2011",
+        "arquivo": "dicionario-da-lingua-brasileira-de-sinais-2011.json"
+      },
+      {
+        "titulo": "Dicionário de Sinais da Área de Tecnologia",
+        "arquivo": "dicionario-de-sinais-da-area-de-tecnologia.json"
+      },
+      {
+        "titulo": "LibrasQuim - Dicionário de Libras para Química",
+        "arquivo": "librasquim.json"
+      },
+      {
+        "titulo": "LibrasTI",
+        "arquivo": "librasti.json"
+      },
+      {
+        "titulo": "SENAI Libras",
+        "arquivo": "senai-libras.json"
+      },
+      {
+        "titulo": "Spread The Sign",
+        "arquivo": "spread-the-sign.json"
+      }
+    ]
+  },
+  "Libras: Aprendizagem": {
+    "descricao": "Os aplicativos de Libras: Aprendizagem são voltados para o ensino estruturado de Libras e auxiliam significativamente no processo de ensino em sala de aula. Eles são especialmente úteis como complementos ao ensino de Libras, sobretudo em atividades práticas. É importante que o material didático esteja sempre alinhado ao currículo oficial. A introdução dessas ferramentas é recomendada desde a Educação Infantil, seguindo para o Ensino Fundamental - Anos Iniciais e Anos Finais, para garantir uma progressão consistente no aprendizado de Libras ao longo dos anos escolares.",
+    "tecnologias": [
+      {
+        "titulo": "Libras Para Todos",
+        "arquivo": "libras-para-todos.json"
+      },
+      {
+        "titulo": "Quiz de Libras",
+        "arquivo": "quiz-de-libras.json"
+      },
+      {
+        "titulo": "Sinalário em Libras",
+        "arquivo": "sinalario-em-libras.json"
+      }
+    ]
+  },
+  "Libras: Tradução e Interpretação": {
+    "descricao": "Na categoria Libras: Tradução e Interpretação, os aplicativos que traduzem texto em Libras e vice-versa são ferramentas que facilitam a comunicação entre surdos e ouvintes que não dominam Libras. Essas ferramentas são especialmente úteis em aulas com materiais textuais, ajudando na compreensão dos conteúdos. No entanto, é essencial confirmar a precisão das traduções e não depender exclusivamente dessas ferramentas em contextos complexos, onde um intérprete humano pode ser necessário. A recomendação de uso dessas tecnologias é para alunos do Ensino Fundamental - Anos Finais, Ensino Médio, Ensino Superior e EJA, uma vez que a tradução precisa de um bom entendimento do contexto, sendo mais adequada para alunos mais avançados.",
+    "tecnologias": [
+      {
+        "titulo": "Hand Talk Tradutor para Libras",
+        "arquivo": "hand-talk.json"
+      },
+      {
+        "titulo": "Rybená Tradutor Libras Voz",
+        "arquivo": "rybena.json"
+      },
+      {
+        "titulo": "VLibras",
+        "arquivo": "vlibras.json"
+      }
+    ]
+  },
+  "Comunicação Assistiva": {
+    "descricao": "As tecnologias de Comunicação Assistiva são fundamentais para alunos que têm dificuldades de fala ou são não-verbais, utilizando símbolos e textos para facilitar a comunicação. É essencial implementar essas ferramentas em salas de aula com alunos que possuem limitações severas de comunicação, sempre adaptando conforme as necessidades específicas de cada um. A personalização das pranchas de comunicação é um cuidado necessário para garantir a eficácia do uso. Essas tecnologias devem ser introduzidas na Educação Infantil, com adaptações contínuas no Ensino Fundamental - Anos Iniciais e Anos Finais à medida que os alunos crescem e desenvolvem novas habilidades.",
+    "tecnologias": [
+      {
+        "titulo": "Ararajuba",
+        "arquivo": "ararajuba.json"
+      },
+      {
+        "titulo": "AsTeRICS Grid",
+        "arquivo": "asterics-grid.json"
+      },
+      {
+        "titulo": "Cboard",
+        "arquivo": "cboard.json"
+      },
+      {
+        "titulo": "Comunicação para surdos",
+        "arquivo": "comunicacao-para-surdos.json"
+      },
+      {
+        "titulo": "Dolphin",
+        "arquivo": "dolphin.json"
+      },
+      {
+        "titulo": "Expressia: Falar e Aprender",
+        "arquivo": "expressia.json"
+      },
+      {
+        "titulo": "HelpTalk",
+        "arquivo": "helptalk.json"
+      },
+      {
+        "titulo": "LetMeTalk:Aplicação Grátis CAA",
+        "arquivo": "letmetalk.json"
+      },
+      {
+        "titulo": "Matraquinha",
+        "arquivo": "matraquinha.json"
+      },
+      {
+        "titulo": "Mudo Que Fala",
+        "arquivo": "mudo-que-fala.json"
+      },
+      {
+        "titulo": "Picto4Me",
+        "arquivo": "picto4me.json"
+      },
+      {
+        "titulo": "Plaphoons",
+        "arquivo": "plaphoons.json"
+      },
+      {
+        "titulo": "SpeakLiz: para pessoas com def",
+        "arquivo": "speakliz.json"
+      },
+      {
+        "titulo": "SymboTalk - AAC Talker",
+        "arquivo": "symbotalk.json"
+      },
+      {
+        "titulo": "Transcrição da fala para texto",
+        "arquivo": "transcricao-da-fala-para-texto.json"
+      },
+      {
+        "titulo": "Virginia ajuda deficientes",
+        "arquivo": "virginia.json"
+      },
+      {
+        "titulo": "Zapia - Assistente Pessoal IA",
+        "arquivo": "zapia.json"
+      }
+    ]
+  },
+  "Videoconferência": {
+    "descricao": "No contexto de Videoconferência, plataformas como Zoom, Microsoft Teams e Google Meet, que oferecem legendas automáticas, são essenciais para garantir a acessibilidade em aulas online ou híbridas. É crucial garantir que a ferramenta escolhida seja compatível com os dispositivos dos alunos e que todos tenham acesso adequado à internet. Essas tecnologias são mais indicadas para o Ensino Fundamental - Anos Finais, Ensino Médio, Ensino Superior e EJA, onde os alunos já têm habilidades de leitura e escrita consolidadas e podem se beneficiar plenamente dos recursos de acessibilidade.",
+    "tecnologias": [
+      {
+        "titulo": "Google Meet",
+        "arquivo": "google-meet.json"
+      },
+      {
+        "titulo": "Microsoft Teams",
+        "arquivo": "microsoft-teams.json"
+      },
+      {
+        "titulo": "Skype",
+        "arquivo": "skype.json"
+      },
+      {
+        "titulo": "Zoom",
+        "arquivo": "zoom.json"
+      }
+    ]
+  }
+}
