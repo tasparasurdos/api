@@ -3,9 +3,14 @@ import json
 import os
 from collections import defaultdict
 
-# Criar diretório api/ se não existir
-print("Verificando/criando diretório 'api/'...")
-os.makedirs('api', exist_ok=True)
+# Criar diretório docs/ se não existir
+# docs é o diretorio padrão para publicar no githubpages
+print("Verificando/criando diretório 'docs/'...")
+os.makedirs('docs', exist_ok=True)
+
+# Copiar o arquivo index.html para dentro de docs/
+print("Copiando 'index.html' para o diretório 'docs/'...")
+shutil.copy('index.html', 'docs/')
 
 # Colunas que estarão no JSON de cada tecnologia
 # Modifique este array para incluir/excluir colunas nos JSONs individuais
