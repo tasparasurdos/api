@@ -1,6 +1,7 @@
 import csv
 import json
 import os
+import shutil
 from collections import defaultdict
 
 # Criar diretório docs/ se não existir
@@ -49,7 +50,7 @@ with open('tecnologias.csv', 'r', encoding='utf-8') as csvfile:
             tech_data['imagem'] = f"../images/{tech_data['imagem']}"
             
         # Nome do arquivo usando o slug
-        filename = f"api/{row['slug']}.json"
+        filename = f"docs/{row['slug']}.json"
         
         # Escrever o arquivo JSON individual
         with open(filename, 'w', encoding='utf-8') as jsonfile:
@@ -126,27 +127,27 @@ for cat, tecnologias in categorias.items():
 
 print("Gerando arquivos de índice...")
 # Escrever os arquivos de índice
-with open('api/indice.json', 'w', encoding='utf-8') as f:
+with open('docs/indice.json', 'w', encoding='utf-8') as f:
     json.dump(indice, f, ensure_ascii=False, indent=2)
     print("Arquivo 'indice.json' gerado.")
 
-with open('api/categorias.json', 'w', encoding='utf-8') as f:
+with open('docs/categorias.json', 'w', encoding='utf-8') as f:
     json.dump(categorias_com_desc, f, ensure_ascii=False, indent=2)
     print("Arquivo 'categorias.json' gerado com descrições.")
 
-with open('api/custo.json', 'w', encoding='utf-8') as f:
+with open('docs/custo.json', 'w', encoding='utf-8') as f:
     json.dump(dict(custos), f, ensure_ascii=False, indent=2)
     print("Arquivo 'custo.json' gerado.")
 
-with open('api/etapas_ensino.json', 'w', encoding='utf-8') as f:
+with open('docs/etapas_ensino.json', 'w', encoding='utf-8') as f:
     json.dump(dict(etapas_ensino), f, ensure_ascii=False, indent=2)
     print("Arquivo 'etapas_ensino.json' gerado.")
 
-with open('api/requer_internet.json', 'w', encoding='utf-8') as f:
+with open('docs/requer_internet.json', 'w', encoding='utf-8') as f:
     json.dump(dict(requer_internet_dict), f, ensure_ascii=False, indent=2)
     print("Arquivo 'requer_internet.json' gerado.")
 
-with open('api/plataformas.json', 'w', encoding='utf-8') as f:
+with open('docs/plataformas.json', 'w', encoding='utf-8') as f:
     json.dump(dict(plataformas_dict), f, ensure_ascii=False, indent=2)
     print("Arquivo 'plataformas.json' gerado.")
 
