@@ -4,7 +4,7 @@
   "orientacao": "Para maximizar o uso do SpeechNotes como tecnologia assistiva, recomenda-se utilizá-lo em situações de ditado ou em reuniões, onde a fala precisa ser convertida rapidamente em texto. É importante revisar as transcrições para corrigir possíveis erros, especialmente ao utilizar o aplicativo em português, onde algumas palavras podem não ser reconhecidas corretamente. O uso de um microfone de qualidade pode melhorar a precisão do reconhecimento de fala.",
   "dicas": "O aplicativo é indicado para transcrever discursos, reuniões ou mesmo aulas em tempo real. No entanto, deve-se estar ciente das limitações, como a dificuldade de reconhecer certos comandos de voz e a necessidade de corrigir pontuações. O uso do aplicativo deve ser complementado com revisões manuais para garantir a precisão.",
   "etapas_justificativa": "A tecnologia é mais adequada para estudantes que já possuem habilidades de leitura e escrita, sendo útil para transcrever aulas e reuniões. O SpeechNotes pode ser uma ferramenta valiosa para garantir que os alunos não percam informações importantes durante as aulas e atividades educacionais.",
-  "imagem": "../images/speechnotes.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/speechnotes.jpg",
   "categoria": "Transcrição de Fala",
   "custo": "Freemium",
   "requer_internet": "Parcialmente",

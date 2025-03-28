@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo do Google Meet como ferramenta assistiva, ative as legendas automáticas durante as reuniões. Certifique-se de que os participantes falem de forma clara para que a transcrição seja precisa. Utilize o compartilhamento de tela e outros recursos visuais para complementar as explicações.",
   "dicas": "Utilize o Google Meet para aulas ao vivo e discussões em grupo, aproveitando as legendas em tempo real para garantir que todos os alunos possam acompanhar o conteúdo. Evite falar muito rápido, pois isso pode comprometer a precisão das legendas. Reforce o conteúdo com materiais escritos para revisão posterior.",
   "etapas_justificativa": "A flexibilidade e acessibilidade do Google Meet, combinadas com suas ferramentas de transcrição e legendas, tornam a plataforma adequada para alunos mais avançados, onde a comunicação eficaz é essencial.",
-  "imagem": "../images/google-meet.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/google-meet.jpg",
   "categoria": "Videoconferência",
   "custo": "Freemium",
   "requer_internet": "Sim",

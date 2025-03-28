@@ -4,7 +4,7 @@
   "orientacao": "Para maximizar o uso do Captify em sala de aula, posicione o microfone do telefone próximo ao orador para uma melhor captação de áudio. Use o aplicativo em ambientes com baixo ruído de fundo para garantir maior precisão nas transcrições. Explique aos alunos como usar o aplicativo em diferentes contextos, como durante apresentações ou debates.",
   "dicas": "Utilize o Captify durante aulas expositivas, apresentações de alunos ou palestras para que alunos surdos possam acompanhar as falas em tempo real. O aplicativo também pode ser útil em atividades em grupo, permitindo que todos os alunos acompanhem as discussões. Evite utilizar o Captify em atividades práticas ou dinâmicas onde o uso contínuo de texto pode ser uma distração.",
   "etapas_justificativa": "O Captify é mais indicado para etapas onde a compreensão oral é essencial e a necessidade de acompanhamento em tempo real é maior, como em aulas expositivas e apresentações.",
-  "imagem": "../images/captify.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/captify.jpg",
   "categoria": "Transcrição de Fala",
   "custo": "Grátis",
   "requer_internet": "Sim",

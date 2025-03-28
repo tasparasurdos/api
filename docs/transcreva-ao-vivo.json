@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo da ferramenta, utilize um fone de ouvido Bluetooth para melhorar a precisão em ambientes barulhentos. Certifique-se de configurar o idioma correto para a transcrição e ajuste o tamanho do texto para facilitar a leitura. Como o aplicativo tem compras internas, verifique a necessidade de uma assinatura para usar todos os recursos. Em sala de aula, revise as transcrições para garantir a precisão do conteúdo.",
   "dicas": "O aplicativo é indicado para atividades em sala de aula que envolvam palestras e discussões, onde a transcrição ao vivo pode ajudar a acompanhar o conteúdo. Não é recomendado para atividades que exijam muita interação visual ou demonstrações práticas, como aulas de ciências. A funcionalidade offline pode ser útil em áreas com acesso limitado à internet.",
   "etapas_justificativa": "A tecnologia é mais adequada para estudantes que já possuem habilidades de leitura e interpretação de textos, normalmente a partir dos anos finais do Ensino Fundamental. No Ensino Médio e Superior, pode ser uma ferramenta valiosa para acompanhar aulas expositivas. Para a EJA, depende do nível de letramento dos estudantes.",
-  "imagem": "../images/transcreva-ao-vivo.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/transcreva-ao-vivo.jpg",
   "categoria": "Transcrição de Fala",
   "custo": "Pago",
   "requer_internet": "Parcialmente",

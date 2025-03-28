@@ -4,7 +4,7 @@
   "orientacao": "Para maximizar o uso do HelpTalk como ferramenta assistiva, é importante configurar perfis personalizados de acordo com as necessidades específicas do usuário. Utilize o recurso de múltiplos idiomas quando necessário e familiarize-se com as funções de emergência. Teste o aplicativo em diferentes cenários para garantir que o usuário se sinta confortável ao usá-lo.",
   "dicas": "Utilize o HelpTalk em sala de aula para facilitar a comunicação de alunos que enfrentam desafios na fala ou na escrita. Crie perfis personalizados para atividades específicas ou rotinas diárias. Recomenda-se o uso em situações onde a comunicação rápida e eficaz é essencial, como em atividades de grupo ou durante emergências escolares.",
   "etapas_justificativa": "A flexibilidade do HelpTalk, com perfis personalizáveis e suporte para múltiplos idiomas, o torna uma ferramenta eficaz para todas as etapas de ensino, ajudando a superar barreiras de comunicação em diferentes contextos educacionais.",
-  "imagem": "../images/helptalk.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/helptalk.jpg",
   "categoria": "Comunicação Assistiva",
   "custo": "Grátis",
   "requer_internet": "Não",

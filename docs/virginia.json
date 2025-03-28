@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo da ferramenta como tecnologia assistiva, recomenda-se configurar o dispositivo com o mecanismo de síntese de fala mais adequado, como o Google TTS. O aplicativo pode ser utilizado em sala de aula para ajudar alunos com dificuldades de comunicação a expressarem suas necessidades. É importante testar o app em diferentes cenários para garantir que a comunicação seja clara e eficaz, e considerar o uso de figuras ou símbolos para complementar a comunicação.",
   "dicas": "O aplicativo é indicado para atividades que envolvam a necessidade de comunicação básica e expressiva, como pedir ajuda, água ou comida. Pode ser utilizado em contextos educacionais para facilitar a interação entre o aluno e o professor. No entanto, deve-se evitar confiar exclusivamente no aplicativo em situações mais complexas, complementando com outros recursos de comunicação assistiva.",
   "etapas_justificativa": "A tecnologia é acessível para diferentes faixas etárias e pode ser utilizada para facilitar a comunicação de alunos com dificuldades de fala, desde a Educação Infantil até a EJA. O aplicativo pode ser especialmente útil para alunos com deficiências que afetam a fala e a comunicação.",
-  "imagem": "../images/virginia.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/virginia.jpg",
   "categoria": "Comunicação Assistiva",
   "custo": "Grátis",
   "requer_internet": "Parcialmente",

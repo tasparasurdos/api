@@ -4,7 +4,7 @@
   "orientacao": "Para maximizar o uso como ferramenta assistiva, personalize as categorias e imagens de acordo com as necessidades específicas do usuário. Certifique-se de que o aplicativo esteja configurado corretamente antes de usá-lo em situações ao vivo, como em sala de aula. Treine o usuário para navegar pelas categorias e selecionar imagens para formar frases.",
   "dicas": "Utilize o LetMeTalk para facilitar a comunicação durante atividades de grupo, permitindo que os alunos participem ativamente das discussões. Reforce o aprendizado de novos conceitos associando imagens às palavras correspondentes. Evite sobrecarregar o aplicativo com muitas categorias de uma só vez; introduza novos conteúdos gradualmente para evitar confusão.",
   "etapas_justificativa": "O LetMeTalk é adequado para diferentes níveis de ensino, mas seu uso é especialmente benéfico em etapas iniciais, onde a comunicação básica é fundamental para o desenvolvimento acadêmico e social.",
-  "imagem": "../images/letmetalk.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/letmetalk.jpg",
   "categoria": "Comunicação Assistiva",
   "custo": "Grátis",
   "requer_internet": "Não",

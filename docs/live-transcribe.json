@@ -4,7 +4,7 @@
   "orientacao": "Para maximizar o uso do Live Transcribe, é importante garantir que o microfone esteja posicionado adequadamente e que o ambiente seja silencioso para aumentar a precisão da transcrição. Utilize o recurso de personalização de texto para ajustar o tamanho e o layout da transcrição conforme necessário. Em sala de aula, o aplicativo pode ser uma excelente ferramenta para acompanhar palestras e aulas expositivas, garantindo que os estudantes surdos tenham acesso completo às informações.",
   "dicas": "O aplicativo é recomendado para atividades como palestras, discussões em grupo e qualquer situação onde a compreensão auditiva seja crucial. Também pode ser usado para acompanhar vídeos e conversas ao vivo. No entanto, em ambientes ruidosos, é importante complementar o uso do aplicativo com outros recursos, como materiais visuais, para garantir a compreensão total.",
   "etapas_justificativa": "A tecnologia é mais adequada para alunos que possuem habilidades de leitura e conseguem acompanhar transcrições em tempo real. Nas etapas mais avançadas, como Ensino Médio e Superior, o Live Transcribe pode ser uma ferramenta valiosa para garantir que os alunos não percam informações importantes durante as aulas.",
-  "imagem": "../images/live-transcribe.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/live-transcribe.jpg",
   "categoria": "Transcrição de Fala",
   "custo": "Grátis",
   "requer_internet": "Não",

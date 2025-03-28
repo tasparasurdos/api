@@ -4,7 +4,7 @@
   "orientacao": "Para maximizar o uso da ferramenta, é recomendado que os usuários explorem as diferentes funcionalidades de busca por palavra, assunto, letra do alfabeto e configuração de mão. Em sala de aula, é importante utilizar o dicionário como complemento a outras atividades educativas, garantindo que os estudantes compreendam o contexto de uso dos sinais apresentados. O uso offline pode ser limitado, portanto, certifique-se de ter acesso à internet para aproveitar todos os recursos disponíveis.",
   "dicas": "O dicionário é indicado para atividades de aprendizagem de Libras e para o ensino de novos vocábulos em sala de aula. Pode ser utilizado para exercícios de tradução e compreensão de frases em Libras. No entanto, não é recomendado como única fonte de aprendizado, especialmente para áreas que requerem uma abordagem prática da língua de sinais. Complementar com atividades interativas pode melhorar a absorção do conteúdo.",
   "etapas_justificativa": "O dicionário é mais adequado para estudantes que já possuem conhecimentos básicos de Libras e desejam expandir seu vocabulário. Nos anos finais do Ensino Fundamental e no Ensino Médio, pode ser utilizado para introduzir novos sinais e contextos de uso. No Ensino Superior e na EJA, é uma ferramenta de apoio para cursos que envolvem a tradução e interpretação de Libras.",
-  "imagem": "../images/dicionario-da-lingua-brasileira-de-sinais.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-da-lingua-brasileira-de-sinais.jpg",
   "categoria": "Transcrição de Fala",
   "custo": "Pago",
   "requer_internet": "Parcialmente",

@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo do aplicativo, é importante ajustá-lo conforme as necessidades específicas do usuário, como definir a velocidade da interpretação em Libras. No entanto, devido a relatos de travamentos e erros na tradução, é recomendado testar o app antes de utilizá-lo em situações críticas de comunicação. Certifique-se de sempre atualizar o aplicativo para evitar problemas técnicos.",
   "dicas": "O Rybená pode ser útil em atividades de introdução à Libras, especialmente para ouvintes que estão começando a aprender a língua. Pode ser usado para traduzir textos curtos em sala de aula, mas é importante monitorar o uso devido às limitações relatadas. É ideal para complementar outras ferramentas de ensino de Libras, mas não deve ser a única fonte de aprendizado.",
   "etapas_justificativa": "O aplicativo é indicado para alunos que já possuem alguma familiaridade com a leitura em português e estão começando a aprender Libras. Pode ser uma ferramenta de apoio em salas de aula inclusivas, mas sua eficácia pode ser limitada nas etapas mais avançadas, devido às limitações técnicas e à necessidade de uma compreensão mais profunda da Libras.",
-  "imagem": "../images/rybena.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/rybena.jpg",
   "categoria": "Libras: Tradução e Interpretação",
   "custo": "Grátis",
   "requer_internet": "Sim",

@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo do Skype como ferramenta assistiva, sempre ative as legendas ao vivo durante chamadas e reuniões. Aproveite o recurso de tradução de chamadas para facilitar a comunicação com falantes de diferentes idiomas. Garanta que todos os participantes falem de forma clara e pausada para melhorar a qualidade das legendas.",
   "dicas": "Use o Skype para aulas online, reuniões de grupo e sessões de tutoria. Incentive os alunos a utilizar as mensagens instantâneas para tirar dúvidas e fazer perguntas durante as aulas. Reforce o uso de recursos visuais, como compartilhamento de tela, para complementar a comunicação falada. Evite sobrecarregar as reuniões com muitos participantes para garantir que as legendas sejam precisas e legíveis.",
   "etapas_justificativa": "As ferramentas de acessibilidade do Skype, como legendas ao vivo e tradução de chamadas, tornam-no adequado para diversas etapas de ensino, garantindo que alunos surdos ou com deficiência auditiva possam participar de maneira inclusiva.",
-  "imagem": "../images/skype.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/skype.jpg",
   "categoria": "Videoconferência",
   "custo": "Freemium",
   "requer_internet": "Sim",

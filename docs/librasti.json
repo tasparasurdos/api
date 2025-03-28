@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo da ferramenta, é recomendável que os usuários explorem as diferentes categorias de termos disponíveis no glossário e utilizem o aplicativo como um recurso complementar ao ensino de tecnologia da informação. Em sala de aula, o LibrasTI pode ser usado para introduzir e reforçar vocabulário técnico em Libras, sendo especialmente útil em cursos de informática e disciplinas relacionadas. Como o app é offline, certifique-se de ter baixado todo o conteúdo necessário antes de utilizá-lo.",
   "dicas": "O aplicativo é indicado para atividades que envolvem o ensino de termos técnicos em tecnologia da informação, podendo ser utilizado em dinâmicas de grupo ou como recurso de estudo individual. No entanto, deve-se evitar seu uso exclusivo em áreas onde o vocabulário técnico é mais extenso ou complexo, complementando com outras ferramentas e recursos de Libras.",
   "etapas_justificativa": "A tecnologia é adequada para alunos que estão em etapas mais avançadas de aprendizado e que já possuem um conhecimento básico de Libras. O LibrasTI é especialmente útil em cursos técnicos e de graduação na área de tecnologia da informação, onde há uma necessidade constante de compreender e utilizar termos técnicos em Libras.",
-  "imagem": "../images/librasti.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/librasti.jpg",
   "categoria": "Libras: Dicionários e Glossários",
   "custo": "Grátis",
   "requer_internet": "Não",

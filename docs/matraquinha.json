@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo do Matraquinha, é recomendado que os usuários ou educadores personalizem os cartões com imagens e frases que sejam relevantes para o contexto escolar e cotidiano dos alunos. Além disso, monitore o uso do aplicativo para evitar cliques repetidos que possam sobrecarregar o áudio. Pratique a repetição das palavras ou frases mostradas pelo aplicativo para reforçar a aprendizagem.",
   "dicas": "Utilize o Matraquinha em atividades de rotina, como ensinar horários, necessidades básicas e comunicação de emoções. O aplicativo é ideal para introduzir novas palavras e conceitos de forma visual e auditiva. Evite usar o aplicativo em momentos que exigem maior concentração em atividades práticas, onde o uso de tecnologia pode distrair o aluno.",
   "etapas_justificativa": "O Matraquinha é mais indicado para etapas iniciais da educação, onde a comunicação visual e auditiva é crucial para o desenvolvimento da linguagem e compreensão de rotinas.",
-  "imagem": "../images/matraquinha.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/matraquinha.jpg",
   "categoria": "Comunicação Assistiva",
   "custo": "Grátis",
   "requer_internet": "Não",

@@ -4,7 +4,7 @@
   "orientacao": "Para otimizar o uso do Zoom como tecnologia assistiva, ative as legendas automáticas durante as reuniões. Reforce a comunicação visual com o uso de quadros brancos e compartilhamento de tela. Certifique-se de que o áudio seja claro e que todos os participantes falem devagar e pausadamente para melhor transcrição.",
   "dicas": "Utilize o Zoom para aulas virtuais e discussões em grupo. Incentive os alunos a fazer perguntas pelo chat para garantir que todas as dúvidas sejam respondidas de maneira acessível. Evite agendar reuniões longas na versão gratuita para não interromper a comunicação. Reforce o uso de recursos visuais como slides e imagens para complementar o conteúdo falado.",
   "etapas_justificativa": "O Zoom oferece ferramentas que facilitam a comunicação em diferentes níveis de ensino, e as legendas automáticas garantem acessibilidade para alunos surdos ou com deficiência auditiva.",
-  "imagem": "../images/zoom.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/zoom.jpg",
   "categoria": "Videoconferência",
   "custo": "Freemium",
   "requer_internet": "Sim",

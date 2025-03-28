@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo da ferramenta, recomenda-se explorar os recursos de tradução de voz e texto e testar a funcionalidade de transcrição para garantir sua precisão. Em ambientes educacionais, o Microsoft Translate pode ser utilizado para apoiar a compreensão de conteúdo falado, especialmente em aulas com discussões ou apresentações. É importante estar ciente das limitações do aplicativo, como possíveis erros de tradução e a necessidade de conexão estável para o uso de algumas funcionalidades.",
   "dicas": "O aplicativo é indicado para atividades que envolvam a tradução de conversas ou a transcrição de aulas, podendo ser útil em dinâmicas de grupo e apresentações. No entanto, deve-se evitar confiar exclusivamente no Microsoft Translate em situações que exigem alta precisão, como traduções técnicas ou em idiomas menos comuns, complementando com outras ferramentas ou recursos quando necessário.",
   "etapas_justificativa": "A tecnologia é mais adequada para alunos que possuem habilidades de leitura e que podem se beneficiar da tradução e transcrição de conteúdos em diferentes idiomas. No Ensino Médio e Superior, o Microsoft Translate pode ser uma ferramenta valiosa para acompanhar aulas e conferências em idiomas estrangeiros. Para a EJA, depende do nível de letramento e das necessidades linguísticas dos estudantes.",
-  "imagem": "../images/microsoft-translate.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/microsoft-translate.jpg",
   "categoria": "Transcrição de Fala",
   "custo": "Grátis",
   "requer_internet": "Não",

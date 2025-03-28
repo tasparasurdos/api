@@ -1,190 +1,237 @@
 [
   {
     "titulo": "ACESSIBILIDADE NA CÂMARA: Dicionário de Libras",
-    "arquivo": "acessibilidade-na-camara-dicionario-de-libras.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/acessibilidade-na-camara-dicionario-de-libras.jpg",
+    "slug": "acessibilidade-na-camara-dicionario-de-libras"
   },
   {
     "titulo": "Ararajuba",
-    "arquivo": "ararajuba.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/ararajuba.jpg",
+    "slug": "ararajuba"
   },
   {
     "titulo": "AsTeRICS Grid",
-    "arquivo": "asterics-grid.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/asterics-grid.jpg",
+    "slug": "asterics-grid"
   },
   {
     "titulo": "Ava: Transcriptions & Captions",
-    "arquivo": "ava.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/ava.jpg",
+    "slug": "ava"
   },
   {
     "titulo": "Captify: Legendas ao Vivo",
-    "arquivo": "captify.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/captify.jpg",
+    "slug": "captify"
   },
   {
     "titulo": "Cboard",
-    "arquivo": "cboard.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/cboard.jpg",
+    "slug": "cboard"
   },
   {
     "titulo": "Colibras",
-    "arquivo": "colibras.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/colibras.jpg",
+    "slug": "colibras"
   },
   {
     "titulo": "Comunicação para surdos",
-    "arquivo": "comunicacao-para-surdos.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/comunicacao-para-surdos.jpg",
+    "slug": "comunicacao-para-surdos"
   },
   {
     "titulo": "Dicionário da Língua Brasileira de Sinais",
-    "arquivo": "dicionario-da-lingua-brasileira-de-sinais.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-da-lingua-brasileira-de-sinais.jpg",
+    "slug": "dicionario-da-lingua-brasileira-de-sinais"
   },
   {
     "titulo": "Dicionário da Língua Brasileira de Sinais V3 - 2011",
-    "arquivo": "dicionario-da-lingua-brasileira-de-sinais-2011.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-da-lingua-brasileira-de-sinais-2011.jpg",
+    "slug": "dicionario-da-lingua-brasileira-de-sinais-2011"
   },
   {
     "titulo": "Dicionário de Sinais da Área de Tecnologia",
-    "arquivo": "dicionario-de-sinais-da-area-de-tecnologia.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-de-sinais-da-area-de-tecnologia.jpg",
+    "slug": "dicionario-de-sinais-da-area-de-tecnologia"
   },
   {
     "titulo": "Dolphin",
-    "arquivo": "dolphin.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/dolphin.jpg",
+    "slug": "dolphin"
   },
   {
     "titulo": "Expressia: Falar e Aprender",
-    "arquivo": "expressia.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/expressia.jpg",
+    "slug": "expressia"
   },
   {
     "titulo": "Fireflies: AI notetaker",
-    "arquivo": "fireflies.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/fireflies.jpg",
+    "slug": "fireflies"
   },
   {
     "titulo": "GitalkText",
-    "arquivo": "gitalktext.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/gitalktext.jpg",
+    "slug": "gitalktext"
   },
   {
     "titulo": "Google Meet",
-    "arquivo": "google-meet.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/google-meet.jpg",
+    "slug": "google-meet"
   },
   {
     "titulo": "Hand Talk Tradutor para Libras",
-    "arquivo": "hand-talk.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/hand-talk.jpg",
+    "slug": "hand-talk"
   },
   {
     "titulo": "HelpTalk",
-    "arquivo": "helptalk.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/helptalk.jpg",
+    "slug": "helptalk"
   },
   {
     "titulo": "LetMeTalk:Aplicação Grátis CAA",
-    "arquivo": "letmetalk.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/letmetalk.jpg",
+    "slug": "letmetalk"
   },
   {
     "titulo": "Libras Para Todos",
-    "arquivo": "libras-para-todos.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/libras-para-todos.jpg",
+    "slug": "libras-para-todos"
   },
   {
     "titulo": "LibrasQuim - Dicionário de Libras para Química",
-    "arquivo": "librasquim.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/librasquim.jpg",
+    "slug": "librasquim"
   },
   {
     "titulo": "LibrasTI",
-    "arquivo": "librasti.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/librasti.jpg",
+    "slug": "librasti"
   },
   {
     "titulo": "Live Transcribe",
-    "arquivo": "live-transcribe.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/live-transcribe.jpg",
+    "slug": "live-transcribe"
   },
   {
     "titulo": "Matraquinha",
-    "arquivo": "matraquinha.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/matraquinha.jpg",
+    "slug": "matraquinha"
   },
   {
     "titulo": "Microsoft Teams",
-    "arquivo": "microsoft-teams.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/microsoft-teams.jpg",
+    "slug": "microsoft-teams"
   },
   {
     "titulo": "Microsoft Translate",
-    "arquivo": "microsoft-translate.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/microsoft-translate.jpg",
+    "slug": "microsoft-translate"
   },
   {
     "titulo": "Mudo Que Fala",
-    "arquivo": "mudo-que-fala.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/mudo-que-fala.jpg",
+    "slug": "mudo-que-fala"
   },
   {
     "titulo": "Picto4Me",
-    "arquivo": "picto4me.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/picto4me.jpg",
+    "slug": "picto4me"
   },
   {
     "titulo": "Plaphoons",
-    "arquivo": "plaphoons.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/plaphoons.jpg",
+    "slug": "plaphoons"
   },
   {
     "titulo": "Quiz de Libras",
-    "arquivo": "quiz-de-libras.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/quiz-de-libras.jpg",
+    "slug": "quiz-de-libras"
   },
   {
     "titulo": "Rybená Tradutor Libras Voz",
-    "arquivo": "rybena.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/rybena.jpg",
+    "slug": "rybena"
   },
   {
     "titulo": "SENAI Libras",
-    "arquivo": "senai-libras.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/senai-libras.jpg",
+    "slug": "senai-libras"
   },
   {
     "titulo": "Sinalário em Libras",
-    "arquivo": "sinalario-em-libras.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/sinalario-em-libras.jpg",
+    "slug": "sinalario-em-libras"
   },
   {
     "titulo": "Skype",
-    "arquivo": "skype.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/skype.jpg",
+    "slug": "skype"
   },
   {
     "titulo": "SpeakLiz: para pessoas com def",
-    "arquivo": "speakliz.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/speakliz.jpg",
+    "slug": "speakliz"
   },
   {
     "titulo": "Speech To Text | Voice To Text",
-    "arquivo": "speech-to-text-voice-to-text.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/speech-to-text-voice-to-text.jpg",
+    "slug": "speech-to-text-voice-to-text"
   },
   {
     "titulo": "SpeechNotes",
-    "arquivo": "speechnotes.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/speechnotes.jpg",
+    "slug": "speechnotes"
   },
   {
     "titulo": "Spread The Sign",
-    "arquivo": "spread-the-sign.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/spread-the-sign.jpg",
+    "slug": "spread-the-sign"
   },
   {
     "titulo": "SymboTalk - AAC Talker",
-    "arquivo": "symbotalk.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/symbotalk.jpg",
+    "slug": "symbotalk"
   },
   {
     "titulo": "Tradutor de Conversas",
-    "arquivo": "tradutor-de-conversas.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/tradutor-de-conversas.jpg",
+    "slug": "tradutor-de-conversas"
   },
   {
     "titulo": "Transcreva ao vivo",
-    "arquivo": "transcreva-ao-vivo.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/transcreva-ao-vivo.jpg",
+    "slug": "transcreva-ao-vivo"
   },
   {
     "titulo": "Transcrição da fala para texto",
-    "arquivo": "transcricao-da-fala-para-texto.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/transcricao-da-fala-para-texto.jpg",
+    "slug": "transcricao-da-fala-para-texto"
   },
   {
     "titulo": "TurboScribe",
-    "arquivo": "turboscribe.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/turboscribe.jpg",
+    "slug": "turboscribe"
   },
   {
     "titulo": "Virginia ajuda deficientes",
-    "arquivo": "virginia.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/virginia.jpg",
+    "slug": "virginia"
   },
   {
     "titulo": "VLibras",
-    "arquivo": "vlibras.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/vlibras.jpg",
+    "slug": "vlibras"
   },
   {
     "titulo": "Zapia - Assistente Pessoal IA",
-    "arquivo": "zapia.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/zapia.jpg",
+    "slug": "zapia"
   },
   {
     "titulo": "Zoom",
-    "arquivo": "zoom.json"
+    "imagem": "https://tasparasurdos.github.io/api/imagens/zoom.jpg",
+    "slug": "zoom"
   }
 ]

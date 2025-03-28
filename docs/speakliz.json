@@ -4,7 +4,7 @@
   "orientacao": "Para aproveitar ao máximo o SpeakLiz como tecnologia assistiva, é importante testar as funcionalidades em diferentes ambientes e ajustar as configurações conforme necessário. A função de alerta de som ambiente pode ser útil em sala de aula para notificar o aluno sobre sons importantes. Ao utilizar a conversão de voz em texto, garantir uma boa conexão à internet para melhor desempenho.",
   "dicas": "O aplicativo é recomendado para atividades de leitura e comunicação, especialmente em situações onde o aluno precisa de suporte para entender sons ao seu redor ou para interagir com outros. Não é recomendado para atividades que exijam um alto grau de precisão na interpretação da linguagem de sinais, devido às limitações relatadas pelos usuários.",
   "etapas_justificativa": "O SpeakLiz pode ser adaptado para diferentes idades, mas é mais eficaz em contextos onde a comunicação básica e o suporte à leitura são necessários.",
-  "imagem": "../images/speakliz.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/speakliz.jpg",
   "categoria": "Comunicação Assistiva",
   "custo": "Pago",
   "requer_internet": "Parcialmente",

@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo da ferramenta, é recomendável que os usuários explorem as diversas línguas de sinais disponíveis no aplicativo e aproveitem a funcionalidade de tradução de palavras para diferentes contextos. No entanto, é importante estar ciente de que o aplicativo pode não incluir todos os regionalismos da Libras, e revisar os vídeos várias vezes pode ser necessário. Uma conexão estável à internet é fundamental, pois o app não oferece suporte completo offline.",
   "dicas": "O aplicativo é recomendado para uso em aulas de idiomas ou em atividades de inclusão, onde a comparação entre diferentes línguas de sinais pode enriquecer o aprendizado. Pode ser particularmente útil em atividades que incentivam a pesquisa e a descoberta de novos gestos. No entanto, deve-se evitar confiar exclusivamente no aplicativo em regiões com variações significativas de Libras ou em contextos onde o aplicativo não oferece cobertura completa.",
   "etapas_justificativa": "A tecnologia é mais adequada para alunos que já possuem habilidades básicas de Libras e estão interessados em expandir seu conhecimento em outras línguas de sinais. No Ensino Médio e Superior, o aplicativo pode complementar cursos de tradução e interpretação. Para a EJA, pode ser uma ferramenta de apoio, dependendo do nível de letramento em Libras.",
-  "imagem": "../images/spread-the-sign.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/spread-the-sign.jpg",
   "categoria": "Libras: Dicionários e Glossários",
   "custo": "Freemium",
   "requer_internet": "Parcialmente",

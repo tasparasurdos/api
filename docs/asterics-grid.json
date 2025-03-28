@@ -4,7 +4,7 @@
   "orientacao": "Para maximizar o uso do AsTeRICS Grid como ferramenta assistiva, é importante configurar as tabelas de comunicação de acordo com as necessidades individuais dos usuários. Prefira o uso offline para maior confiabilidade, especialmente em ambientes com acesso limitado à internet. Explore as funcionalidades de controle de casa inteligente e multimídia, que podem enriquecer a experiência do usuário.",
   "dicas": "Utilize o AsTeRICS Grid para facilitar a comunicação em sala de aula, especialmente para alunos com dificuldades de fala. Crie tabelas específicas para atividades escolares, como descrições de tarefas, interações com colegas e rotinas diárias. Recomenda-se o uso em atividades que envolvam comunicação intensa e que demandem adaptações específicas, como apresentações ou trabalhos em grupo.",
   "etapas_justificativa": "O AsTeRICS Grid é altamente personalizável, o que permite adaptar a ferramenta para diferentes níveis de ensino e necessidades individuais, desde a educação básica até o ensino superior.",
-  "imagem": "../images/asterics-grid.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/asterics-grid.jpg",
   "categoria": "Comunicação Assistiva",
   "custo": "Grátis",
   "requer_internet": "Não",

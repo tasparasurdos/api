@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo do Cboard como ferramenta assistiva, personalize as pranchas de comunicação de acordo com as necessidades dos alunos, adicionando símbolos relevantes. Utilize o suporte offline em dispositivos compatíveis para garantir acesso contínuo, mesmo sem internet. Revise periodicamente as pranchas para adaptar conforme o progresso do aluno.",
   "dicas": "O Cboard é recomendado para atividades de comunicação e expressão, especialmente em situações onde o aluno necessita se expressar visualmente. É útil em atividades de interação social, jogos educativos e construção de frases. Evite usá-lo em atividades que demandem uma comunicação mais rápida e fluida, onde o uso de símbolos possa ser limitado.",
   "etapas_justificativa": "O Cboard é flexível e pode ser adaptado para diversas idades e níveis de educação, permitindo uma personalização que atende às necessidades específicas dos alunos em diferentes etapas.",
-  "imagem": "../images/cboard.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/cboard.jpg",
   "categoria": "Comunicação Assistiva",
   "custo": "Grátis",
   "requer_internet": "Não",

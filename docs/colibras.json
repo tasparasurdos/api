@@ -4,7 +4,7 @@
   "orientacao": "Para maximizar o uso do COLibras como ferramenta assistiva, explore o dicionário regularmente para familiarizar-se com novos sinais. Incentive os alunos a utilizarem o site para aprimorar seu vocabulário em Libras. Caso você tenha conhecimento de novos sinais ou variações regionais, considere contribuir com o dicionário para ajudar na disseminação da língua.",
   "dicas": "Utilize o COLibras em atividades que envolvam o aprendizado e a prática de Libras, como traduções de textos ou apresentações em sala de aula. O site pode ser particularmente útil em dinâmicas de grupo, onde os alunos podem pesquisar sinais em tempo real. Evite depender exclusivamente do COLibras para ensino avançado de Libras, já que ele é um dicionário e pode não oferecer explicações aprofundadas sobre gramática e uso contextual.",
   "etapas_justificativa": "O COLibras é mais indicado para etapas em que os alunos já possuem uma base em Libras e podem se beneficiar de um dicionário para expandir seu vocabulário e melhorar a comunicação.",
-  "imagem": "../images/colibras.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/colibras.jpg",
   "categoria": "Libras: Dicionários e Glossários",
   "custo": "Grátis",
   "requer_internet": "Sim",

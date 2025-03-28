@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo da ferramenta, é importante explorar as bibliotecas de imagens disponíveis e personalizar as pranchas de comunicação de acordo com as necessidades específicas de cada aluno. A integração com o Google Drive facilita o armazenamento e o compartilhamento dos projetos, garantindo que eles estejam acessíveis em diferentes dispositivos. Utilize a função de mensagens pictográficas e audíveis no Telegram para expandir a comunicação entre usuários.",
   "dicas": "O Picto4Me é especialmente útil para atividades que envolvem comunicação alternativa, como ajudar alunos não verbais a expressarem suas necessidades e sentimentos. Pode ser utilizado em atividades de sala de aula para criar histórias sociais, ajudar na compreensão de rotinas diárias, ou mesmo para ensinar novos conceitos por meio de representações visuais. Não é recomendado para atividades que exigem interação verbal direta.",
   "etapas_justificativa": "A tecnologia é adaptável a diferentes níveis de ensino, sendo especialmente útil para alunos que apresentam dificuldades de comunicação, permitindo um ambiente de aprendizado mais inclusivo.",
-  "imagem": "../images/picto4me.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/picto4me.jpg",
   "categoria": "Comunicação Assistiva",
   "custo": "Freemium",
   "requer_internet": "Parcialmente",

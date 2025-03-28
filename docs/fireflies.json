@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo da ferramenta como tecnologia assistiva, recomenda-se integrar o Fireflies com os aplicativos de videoconferência utilizados nas aulas. Certifique-se de que o AI notetaker esteja configurado para capturar todas as reuniões relevantes e revisar as transcrições para corrigir possíveis erros. O uso do Fireflies em sala de aula pode ajudar a garantir que alunos surdos tenham acesso completo ao conteúdo discutido em tempo real.",
   "dicas": "O aplicativo é indicado para situações como reuniões de grupo, aulas online e palestras, onde a transcrição precisa e rápida é essencial. No entanto, é importante estar ciente de que o aplicativo pode exigir ajustes em suas configurações para evitar capturar conversas indesejadas ou reuniões irrelevantes. Complementar o uso com outras formas de anotações pode ser útil para garantir a completude das informações.",
   "etapas_justificativa": "A tecnologia é mais adequada para estudantes que já possuem habilidades de leitura e podem se beneficiar das transcrições automáticas de reuniões e aulas. No Ensino Médio e Superior, o Fireflies pode ser uma ferramenta valiosa para garantir que os alunos não percam informações importantes durante as aulas e conferências.",
-  "imagem": "../images/fireflies.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/fireflies.jpg",
   "categoria": "Transcrição de Fala",
   "custo": "Pago",
   "requer_internet": "Sim",

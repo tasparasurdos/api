@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo da ferramenta, é importante personalizar os comunicadores de acordo com as necessidades individuais do usuário. No caso da versão Android, é recomendado evitar o uso de pictogramas muito grandes para não sobrecarregar o programa. A configuração adequada das opções de controle é essencial para usuários com dificuldades motoras.",
   "dicas": "Plaphoons pode ser utilizado em atividades de sala de aula que envolvem comunicação alternativa e aumentativa, auxiliando alunos com dificuldades motoras e de fala a interagir com os colegas e participar ativamente das atividades. Recomenda-se o uso em atividades que necessitem de suporte visual e comunicação facilitada. Não é ideal para atividades que demandam respostas rápidas e em tempo real, devido à necessidade de configuração e ajustes.",
   "etapas_justificativa": "A tecnologia é flexível e pode ser adaptada para diferentes níveis de ensino, auxiliando na inclusão de alunos com necessidades especiais ao longo de sua trajetória educacional.",
-  "imagem": "../images/plaphoons.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/plaphoons.jpg",
   "categoria": "Comunicação Assistiva",
   "custo": "Grátis",
   "requer_internet": "Parcialmente",

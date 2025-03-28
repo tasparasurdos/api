@@ -4,7 +4,7 @@
   "orientacao": "Para maximizar o uso da ferramenta, é importante que o usuário explore as diferentes áreas técnicas disponíveis no aplicativo. Ao utilizar o app em sala de aula, é recomendado verificar previamente se o termo técnico específico está disponível no glossário. Evite depender exclusivamente do app, complementando-o com outros recursos de Libras e garantindo a disponibilidade de uma boa conexão à internet, já que algumas funcionalidades podem não estar disponíveis offline.",
   "dicas": "O aplicativo é indicado para uso em cursos técnicos e profissionalizantes, onde há uma necessidade constante de tradução de termos específicos. Pode ser utilizado durante aulas práticas e teóricas para facilitar a compreensão de conceitos técnicos. No entanto, não é recomendado como único recurso em áreas ainda não cobertas pelo app, como a saúde, ou em contextos onde a Libras do cotidiano é suficiente.",
   "etapas_justificativa": "A tecnologia é especialmente útil em cursos técnicos e profissionalizantes, que são mais comuns a partir do Ensino Médio e na EJA. No Ensino Superior, também pode ser aplicada em cursos que exigem a compreensão de termos técnicos específicos. Não é recomendada para a Educação Infantil e os primeiros anos do Ensino Fundamental, onde o foco está no aprendizado básico da Libras.",
-  "imagem": "../images/senai-libras.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/senai-libras.jpg",
   "categoria": "Libras: Dicionários e Glossários",
   "custo": "Grátis",
   "requer_internet": "Parcialmente",

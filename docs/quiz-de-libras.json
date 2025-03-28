@@ -4,7 +4,7 @@
   "orientacao": "Para obter o máximo da ferramenta, é recomendado que os usuários explorem o módulo de aprendizado antes de iniciar os quizzes, garantindo uma base sólida de conhecimento. Em sala de aula, o aplicativo pode ser usado como complemento em atividades de alfabetização e reforço de números. Como o aplicativo é voltado para iniciantes, é importante que seja utilizado em conjunto com outros recursos de ensino de Libras para uma compreensão mais ampla da língua.",
   "dicas": "O aplicativo é indicado para atividades lúdicas e interativas que envolvam a introdução do alfabeto e números em Libras. Pode ser utilizado em dinâmicas de grupo ou como ferramenta de reforço em atividades individuais. No entanto, deve-se evitar seu uso exclusivo em etapas mais avançadas de aprendizado, pois o conteúdo pode ser limitado para essas fases.",
   "etapas_justificativa": "A tecnologia é adequada para alunos que estão em fase inicial de aprendizado de Libras, focando na introdução de vocabulário básico como letras e números. Nas etapas iniciais do Ensino Fundamental, o aplicativo pode ser um recurso valioso para reforçar o aprendizado de forma lúdica e interativa.",
-  "imagem": "../images/quiz-de-libras.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/quiz-de-libras.jpg",
   "categoria": "Libras: Aprendizagem",
   "custo": "Grátis",
   "requer_internet": "Não",

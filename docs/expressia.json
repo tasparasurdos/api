@@ -4,7 +4,7 @@
   "orientacao": "Para maximizar o uso do Expressia como ferramenta assistiva, personalize as pranchas e atividades de acordo com as necessidades específicas do aluno. É importante familiarizar-se com as funcionalidades do aplicativo, como adicionar imagens e sons, e verificar periodicamente a Central de Atividades para acessar novos recursos. Além disso, configure o aplicativo para restringir o acesso de crianças às ferramentas de edição para evitar alterações acidentais.",
   "dicas": "Recomenda-se o uso do Expressia em atividades que promovam a comunicação e o desenvolvimento cognitivo, como exercícios de nomeação, correspondência de figuras e formação de frases. O app é especialmente útil para atividades de estimulação cognitiva em alunos com autismo e outras dificuldades de aprendizagem. Porém, é importante adaptar o ritmo das atividades às capacidades de cada aluno e considerar o uso de materiais impressos, se necessário, para reforçar o aprendizado.",
   "etapas_justificativa": "O Expressia é adequado para diferentes etapas de ensino devido à sua flexibilidade e personalização. Para crianças pequenas, ele pode ser usado para o desenvolvimento da comunicação básica. Para alunos mais velhos, o aplicativo oferece suporte na realização de atividades de aprendizado adaptadas às suas necessidades. Já na EJA, pode auxiliar na inclusão de adultos com dificuldades de comunicação.",
-  "imagem": "../images/expressia.jpg",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/expressia.jpg",
   "categoria": "Comunicação Assistiva",
   "custo": "Freemium",
   "requer_internet": "Parcialmente",
