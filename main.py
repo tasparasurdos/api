@@ -4,14 +4,21 @@ import os
 import shutil
 from collections import defaultdict
 
-# Criar diretório docs/ se não existir
-# docs é o diretorio padrão para publicar no githubpages
-print("Verificando/criando diretório 'docs/'...")
-os.makedirs('docs', exist_ok=True)
+# Definir variáveis
+diretorio_publicacao = 'docs/'
+site_url = 'https://tasparasurdos.github.io/api/'
 
-# Copiar o arquivo index.html para dentro de docs/
-print("Copiando 'index.html' para o diretório 'docs/'...")
-shutil.copy('index.html', 'docs/')
+# Criar diretório se não existir
+print(f"Verificando/criando diretório '{diretorio_publicacao}'...")
+os.makedirs(diretorio_publicacao, exist_ok=True)
+
+# Copiar o arquivo index.html para dentro do diretório de publicação
+print(f"Copiando 'index.html' para o diretório '{diretorio_publicacao}'...")
+shutil.copy('index.html', diretorio_publicacao)
+
+# Copiar o diretório imagens/ para dentro do diretório de publicação
+print(f"Copiando o diretório 'imagens/' para '{diretorio_publicacao}'...")
+shutil.copytree('imagens', os.path.join(diretorio_publicacao, 'imagens'), dirs_exist_ok=True)
 
 # Colunas que estarão no JSON de cada tecnologia
 # Modifique este array para incluir/excluir colunas nos JSONs individuais
@@ -47,10 +54,10 @@ with open('tecnologias.csv', 'r', encoding='utf-8') as csvfile:
         
         # Ajustar caminho da imagem
         if tech_data['imagem']:
-            tech_data['imagem'] = f"../images/{tech_data['imagem']}"
+            tech_data['imagem'] = f"{site_url}imagens/{tech_data['imagem']}"
             
         # Nome do arquivo usando o slug
-        filename = f"docs/{row['slug']}.json"
+        filename = os.path.join(diretorio_publicacao, f"{row['slug']}.json")
         
         # Escrever o arquivo JSON individual
         with open(filename, 'w', encoding='utf-8') as jsonfile:
@@ -59,7 +66,9 @@ with open('tecnologias.csv', 'r', encoding='utf-8') as csvfile:
         # Adicionar ao índice
         indice.append({
             'titulo': row['titulo'],
-            'arquivo': f"{row['slug']}.json"
+            'imagem': f"{site_url}imagens/{row['imagem']}",
+            'slug': f"{row['slug']}",
+            #'arquivo': f"{row['slug']}.json"
         })
         
         # Adicionar às categorias e guardar descrição
@@ -127,27 +136,27 @@ for cat, tecnologias in categorias.items():
 
 print("Gerando arquivos de índice...")
 # Escrever os arquivos de índice
-with open('docs/indice.json', 'w', encoding='utf-8') as f:
+with open(os.path.join(diretorio_publicacao, 'indice.json'), 'w', encoding='utf-8') as f:
     json.dump(indice, f, ensure_ascii=False, indent=2)
     print("Arquivo 'indice.json' gerado.")
 
-with open('docs/categorias.json', 'w', encoding='utf-8') as f:
+with open(os.path.join(diretorio_publicacao, 'categorias.json'), 'w', encoding='utf-8') as f:
     json.dump(categorias_com_desc, f, ensure_ascii=False, indent=2)
     print("Arquivo 'categorias.json' gerado com descrições.")
 
-with open('docs/custo.json', 'w', encoding='utf-8') as f:
+with open(os.path.join(diretorio_publicacao, 'custo.json'), 'w', encoding='utf-8') as f:
     json.dump(dict(custos), f, ensure_ascii=False, indent=2)
     print("Arquivo 'custo.json' gerado.")
 
-with open('docs/etapas_ensino.json', 'w', encoding='utf-8') as f:
+with open(os.path.join(diretorio_publicacao, 'etapas_ensino.json'), 'w', encoding='utf-8') as f:
     json.dump(dict(etapas_ensino), f, ensure_ascii=False, indent=2)
     print("Arquivo 'etapas_ensino.json' gerado.")
 
-with open('docs/requer_internet.json', 'w', encoding='utf-8') as f:
+with open(os.path.join(diretorio_publicacao, 'requer_internet.json'), 'w', encoding='utf-8') as f:
     json.dump(dict(requer_internet_dict), f, ensure_ascii=False, indent=2)
     print("Arquivo 'requer_internet.json' gerado.")
 
-with open('docs/plataformas.json', 'w', encoding='utf-8') as f:
+with open(os.path.join(diretorio_publicacao, 'plataformas.json'), 'w', encoding='utf-8') as f:
     json.dump(dict(plataformas_dict), f, ensure_ascii=False, indent=2)
     print("Arquivo 'plataformas.json' gerado.")
 
