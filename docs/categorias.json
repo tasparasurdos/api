@@ -4,51 +4,133 @@
     "tecnologias": [
       {
         "titulo": "Ava: Transcriptions & Captions",
-        "arquivo": "ava.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/ava.jpg",
+        "slug": "ava",
+        "custo": "Freemium",
+        "requer_internet": "Sim",
+        "plataformas": "Android; iOS",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Transcrições de áudio em tempo real com baixa taxa de erros."
       },
       {
         "titulo": "Captify: Legendas ao Vivo",
-        "arquivo": "captify.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/captify.jpg",
+        "slug": "captify",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "iOS",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "App gratuito para transformar voz em texto que funciona offline."
       },
       {
         "titulo": "Dicionário da Língua Brasileira de Sinais",
-        "arquivo": "dicionario-da-lingua-brasileira-de-sinais.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-da-lingua-brasileira-de-sinais.jpg",
+        "slug": "dicionario-da-lingua-brasileira-de-sinais",
+        "custo": "Pago",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Site com milhares de sinais de Libras no formato de vídeo."
       },
       {
         "titulo": "Fireflies: AI notetaker",
-        "arquivo": "fireflies.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/fireflies.jpg",
+        "slug": "fireflies",
+        "custo": "Pago",
+        "requer_internet": "Sim",
+        "plataformas": "Android; iOS",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Permite gravar e transcrever aulas e reuniões em aplicativos como Google Meet."
       },
       {
         "titulo": "GitalkText",
-        "arquivo": "gitalktext.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/gitalktext.jpg",
+        "slug": "gitalktext",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Transcreve áudio do Youtube para texto."
       },
       {
         "titulo": "Live Transcribe",
-        "arquivo": "live-transcribe.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/live-transcribe.jpg",
+        "slug": "live-transcribe",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "iOS",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Utilize o smartphone ou tablet para transcrever falas e sons em tempo real. "
       },
       {
         "titulo": "Microsoft Translate",
-        "arquivo": "microsoft-translate.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/microsoft-translate.jpg",
+        "slug": "microsoft-translate",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "Android; iOS; Windows",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "App de tradução que pode ser usado para converter fala em texto ou texto em voz."
       },
       {
         "titulo": "Speech To Text | Voice To Text",
-        "arquivo": "speech-to-text-voice-to-text.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/speech-to-text-voice-to-text.jpg",
+        "slug": "speech-to-text-voice-to-text",
+        "custo": "Freemium",
+        "requer_internet": "Sim",
+        "plataformas": "Android",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Aplicativo que converte fala em texto em tempo real com suporte para mais de 30 idiomas. "
       },
       {
         "titulo": "SpeechNotes",
-        "arquivo": "speechnotes.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/speechnotes.jpg",
+        "slug": "speechnotes",
+        "custo": "Freemium",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Android; Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Permite que o conteúdo falado seja convertido em texto, com suporte limitado offline."
       },
       {
         "titulo": "Tradutor de Conversas",
-        "arquivo": "tradutor-de-conversas.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/tradutor-de-conversas.jpg",
+        "slug": "tradutor-de-conversas",
+        "custo": "Freemium",
+        "requer_internet": "Sim",
+        "plataformas": "Android",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Tradutor com função de transcrição de fala em texto."
       },
       {
         "titulo": "Transcreva ao vivo",
-        "arquivo": "transcreva-ao-vivo.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/transcreva-ao-vivo.jpg",
+        "slug": "transcreva-ao-vivo",
+        "custo": "Pago",
+        "requer_internet": "Parcialmente",
+        "plataformas": "iOS",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Aplicativo para iOS que transcreve falas em tempo real e suporte para mais de 60 idiomas."
+      },
+      {
+        "titulo": "Transcrição da fala para texto",
+        "imagem": "https://tasparasurdos.github.io/api/imagens/transcricao-da-fala-para-texto.jpg",
+        "slug": "transcricao-da-fala-para-texto",
+        "custo": "Grátis",
+        "requer_internet": "Parcialmente",
+        "plataformas": "iOS",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio",
+        "apresentacao": "Transcrição de fala em texto com modo offline."
       },
       {
         "titulo": "TurboScribe",
-        "arquivo": "turboscribe.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/turboscribe.jpg",
+        "slug": "turboscribe",
+        "custo": "Freemium",
+        "requer_internet": "Sim",
+        "plataformas": "Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Transcrição de arquivos de áudio e vídeo por IA com alta precisão."
       }
     ]
   },
@@ -57,35 +139,83 @@
     "tecnologias": [
       {
         "titulo": "ACESSIBILIDADE NA CÂMARA: Dicionário de Libras",
-        "arquivo": "acessibilidade-na-camara-dicionario-de-libras.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/acessibilidade-na-camara-dicionario-de-libras.jpg",
+        "slug": "acessibilidade-na-camara-dicionario-de-libras",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Site com dicionário de termos político-legislativos em Libras."
       },
       {
         "titulo": "Colibras",
-        "arquivo": "colibras.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/colibras.jpg",
+        "slug": "colibras",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Site",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Site gratuito para pesquisar palavras e visualizar sinais de Libras."
       },
       {
         "titulo": "Dicionário da Língua Brasileira de Sinais V3 - 2011",
-        "arquivo": "dicionario-da-lingua-brasileira-de-sinais-2011.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-da-lingua-brasileira-de-sinais-2011.jpg",
+        "slug": "dicionario-da-lingua-brasileira-de-sinais-2011",
+        "custo": "Grátis",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Site com dicionário bilíngue (Português x Libras e Libras x Português)."
       },
       {
         "titulo": "Dicionário de Sinais da Área de Tecnologia",
-        "arquivo": "dicionario-de-sinais-da-area-de-tecnologia.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-de-sinais-da-area-de-tecnologia.jpg",
+        "slug": "dicionario-de-sinais-da-area-de-tecnologia",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Site que oferece sinais específicos relacionados à tecnologia e informática em Libras."
       },
       {
         "titulo": "LibrasQuim - Dicionário de Libras para Química",
-        "arquivo": "librasquim.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/librasquim.jpg",
+        "slug": "librasquim",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Traz sinais em Libras para termos comuns da Química."
       },
       {
         "titulo": "LibrasTI",
-        "arquivo": "librasti.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/librasti.jpg",
+        "slug": "librasti",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "Android",
+        "etapas": "Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Traz um glossário de termos técnicos da área de tecnologia da informação em Libras."
       },
       {
         "titulo": "SENAI Libras",
-        "arquivo": "senai-libras.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/senai-libras.jpg",
+        "slug": "senai-libras",
+        "custo": "Grátis",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Android; iOS",
+        "etapas": "Ensino Médio; EJA; Ensino Superior; ",
+        "apresentacao": "Glossário de termos técnicos para cursos de educação profissional."
       },
       {
         "titulo": "Spread The Sign",
-        "arquivo": "spread-the-sign.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/spread-the-sign.jpg",
+        "slug": "spread-the-sign",
+        "custo": "Freemium",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Android; Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Permite traduzir de palavras para diferentes línguas de sinais através de vídeos."
       }
     ]
   },
@@ -94,15 +224,33 @@
     "tecnologias": [
       {
         "titulo": "Libras Para Todos",
-        "arquivo": "libras-para-todos.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/libras-para-todos.jpg",
+        "slug": "libras-para-todos",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Android",
+        "etapas": "Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA",
+        "apresentacao": "Oferece milhares de palavras em Libras, alfabeto manual e teclado de escrita em Libras."
       },
       {
         "titulo": "Quiz de Libras",
-        "arquivo": "quiz-de-libras.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/quiz-de-libras.jpg",
+        "slug": "quiz-de-libras",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "Android",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais",
+        "apresentacao": "Quiz com módulo onde são mostrados todos os sinais em Libras."
       },
       {
         "titulo": "Sinalário em Libras",
-        "arquivo": "sinalario-em-libras.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/sinalario-em-libras.jpg",
+        "slug": "sinalario-em-libras",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Android",
+        "etapas": "Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais",
+        "apresentacao": "Lista palavras em Língua Portuguesa e mostra o sinal correspondente em vídeo."
       }
     ]
   },
@@ -111,88 +259,208 @@
     "tecnologias": [
       {
         "titulo": "Hand Talk Tradutor para Libras",
-        "arquivo": "hand-talk.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/hand-talk.jpg",
+        "slug": "hand-talk",
+        "custo": "Freemium",
+        "requer_internet": "Não",
+        "plataformas": "Android; iOS",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA",
+        "apresentacao": "App que utiliza personagens para traduzir texto e voz em Libras."
       },
       {
         "titulo": "Rybená Tradutor Libras Voz",
-        "arquivo": "rybena.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/rybena.jpg",
+        "slug": "rybena",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Android",
+        "etapas": "Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais",
+        "apresentacao": "App que traduz português para Libras e ensina a linguagem de sinais."
       },
       {
         "titulo": "VLibras",
-        "arquivo": "vlibras.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/vlibras.jpg",
+        "slug": "vlibras",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Android; iOS",
+        "etapas": "Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais",
+        "apresentacao": "Traduz automaticamente conteúdos em português para Libras."
       }
     ]
   },
   "Comunicação Assistiva": {
-    "descricao": "As tecnologias de Comunicação Assistiva são fundamentais para alunos que têm dificuldades de fala ou são não-verbais, utilizando símbolos e textos para facilitar a comunicação. É essencial implementar essas ferramentas em salas de aula com alunos que possuem limitações severas de comunicação, sempre adaptando conforme as necessidades específicas de cada um. A personalização das pranchas de comunicação é um cuidado necessário para garantir a eficácia do uso. Essas tecnologias devem ser introduzidas na Educação Infantil, com adaptações contínuas no Ensino Fundamental - Anos Iniciais e Anos Finais à medida que os alunos crescem e desenvolvem novas habilidades.",
+    "descricao": "",
     "tecnologias": [
       {
         "titulo": "Ararajuba",
-        "arquivo": "ararajuba.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/ararajuba.jpg",
+        "slug": "ararajuba",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Site",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Site com conversor de fala para texto e texto para fala."
       },
       {
         "titulo": "AsTeRICS Grid",
-        "arquivo": "asterics-grid.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/asterics-grid.jpg",
+        "slug": "asterics-grid",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "Site",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Permite a comunicação aumentativa em dispositivos diversos."
       },
       {
         "titulo": "Cboard",
-        "arquivo": "cboard.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/cboard.jpg",
+        "slug": "cboard",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "Android; iOS; Site; Windows",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA",
+        "apresentacao": "Ferramenta que auxilia na comunicação usando símbolos e conversão de texto em fala."
       },
       {
         "titulo": "Comunicação para surdos",
-        "arquivo": "comunicacao-para-surdos.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/comunicacao-para-surdos.jpg",
+        "slug": "comunicacao-para-surdos",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "iOS",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio",
+        "apresentacao": "Aplicativo projetado para facilitar a comunicação de pessoas surdas."
       },
       {
         "titulo": "Dolphin",
-        "arquivo": "dolphin.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/dolphin.jpg",
+        "slug": "dolphin",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "Site",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio",
+        "apresentacao": "Permite converter textos em fala e transcrever fala em texto diretamente no navegador."
       },
       {
         "titulo": "Expressia: Falar e Aprender",
-        "arquivo": "expressia.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/expressia.jpg",
+        "slug": "expressia",
+        "custo": "Freemium",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Android; Site",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Site para comunicação alternativa que permite a criação de pranchas personalizadas."
       },
       {
         "titulo": "HelpTalk",
-        "arquivo": "helptalk.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/helptalk.jpg",
+        "slug": "helptalk",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "Android",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "App para comunicação oral ou escrita, inclusive em situações emergenciais."
       },
       {
         "titulo": "LetMeTalk:Aplicação Grátis CAA",
-        "arquivo": "letmetalk.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/letmetalk.jpg",
+        "slug": "letmetalk",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "iOS",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais",
+        "apresentacao": "Apoia a comunicação de pessoas surdas e funciona offline."
       },
       {
         "titulo": "Matraquinha",
-        "arquivo": "matraquinha.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/matraquinha.jpg",
+        "slug": "matraquinha",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "Android; iOS",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio",
+        "apresentacao": "Aplicativo de comunicação alternativa que funciona offline."
       },
       {
         "titulo": "Mudo Que Fala",
-        "arquivo": "mudo-que-fala.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/mudo-que-fala.jpg",
+        "slug": "mudo-que-fala",
+        "custo": "Grátis",
+        "requer_internet": "Não",
+        "plataformas": "Android",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais",
+        "apresentacao": "App que permite a conversão de texto em voz, com possibilidade de adicionar novas palavras."
       },
       {
         "titulo": "Picto4Me",
-        "arquivo": "picto4me.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/picto4me.jpg",
+        "slug": "picto4me",
+        "custo": "Freemium",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Site",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio",
+        "apresentacao": "Permite conversar através de pranchas de comunicação integradas ao Google Drive."
       },
       {
         "titulo": "Plaphoons",
-        "arquivo": "plaphoons.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/plaphoons.jpg",
+        "slug": "plaphoons",
+        "custo": "Grátis",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Android; Windows",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio",
+        "apresentacao": "Ajuda na comunicação e no aprendizado de leitura e escrita."
       },
       {
         "titulo": "SpeakLiz: para pessoas com def",
-        "arquivo": "speakliz.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/speakliz.jpg",
+        "slug": "speakliz",
+        "custo": "Pago",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Android; iOS",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA",
+        "apresentacao": "App que ua IA para auxiliar na comunicação de pessoas surdas."
       },
       {
         "titulo": "SymboTalk - AAC Talker",
-        "arquivo": "symbotalk.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/symbotalk.jpg",
+        "slug": "symbotalk",
+        "custo": "Freemium",
+        "requer_internet": "Não",
+        "plataformas": "Site",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais",
+        "apresentacao": "Usa símbolos para facilitar a comunicação, e pode ser personalizado."
       },
       {
-        "titulo": "Transcrição da fala para texto",
-        "arquivo": "transcricao-da-fala-para-texto.json"
+        "titulo": "Transkriptor",
+        "imagem": "https://tasparasurdos.github.io/api/imagens/transkriptor.jpg",
+        "slug": "transkriptor",
+        "custo": "Pago",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Site; Android; iOS",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Site e aplicativo para transcrição de áudio em texto, com ferramentas de IA."
       },
       {
         "titulo": "Virginia ajuda deficientes",
-        "arquivo": "virginia.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/virginia.jpg",
+        "slug": "virginia",
+        "custo": "Grátis",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Android",
+        "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio; EJA",
+        "apresentacao": "Permite que as pessoas possam fazer pedidos e comunicar necessidades."
       },
       {
         "titulo": "Zapia - Assistente Pessoal IA",
-        "arquivo": "zapia.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/zapia.jpg",
+        "slug": "zapia",
+        "custo": "Grátis",
+        "requer_internet": "Sim",
+        "plataformas": "iOS; Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Responde perguntas e transcreve audios grátis pelo WhatsApp."
       }
     ]
   },
@@ -201,19 +469,43 @@
     "tecnologias": [
       {
         "titulo": "Google Meet",
-        "arquivo": "google-meet.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/google-meet.jpg",
+        "slug": "google-meet",
+        "custo": "Freemium",
+        "requer_internet": "Sim",
+        "plataformas": "Android; Site",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Plataforma de videoconferência com legendas automáticas em tempo real."
       },
       {
         "titulo": "Microsoft Teams",
-        "arquivo": "microsoft-teams.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/microsoft-teams.jpg",
+        "slug": "microsoft-teams",
+        "custo": "Freemium",
+        "requer_internet": "Parcialmente",
+        "plataformas": "Android; iOS; Windows",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Plataforma de colaboração com legendas em tempo real e transcrição automática."
       },
       {
         "titulo": "Skype",
-        "arquivo": "skype.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/skype.jpg",
+        "slug": "skype",
+        "custo": "Freemium",
+        "requer_internet": "Sim",
+        "plataformas": "Android; iOS; Site; Windows",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Serviço de comunicação com legendas ao vivo e tradução de chamadas."
       },
       {
         "titulo": "Zoom",
-        "arquivo": "zoom.json"
+        "imagem": "https://tasparasurdos.github.io/api/imagens/zoom.jpg",
+        "slug": "zoom",
+        "custo": "Freemium",
+        "requer_internet": "Sim",
+        "plataformas": "Android; iOS; Site; Windows",
+        "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior",
+        "apresentacao": "Plataforma de videoconferência com legendas automáticas em tempo real."
       }
     ]
   }

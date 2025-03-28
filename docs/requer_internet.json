@@ -13,10 +13,6 @@
       "arquivo": "ava.json"
     },
     {
-      "titulo": "Captify: Legendas ao Vivo",
-      "arquivo": "captify.json"
-    },
-    {
       "titulo": "Colibras",
       "arquivo": "colibras.json"
     },
@@ -135,6 +131,14 @@
       "arquivo": "transcreva-ao-vivo.json"
     },
     {
+      "titulo": "Transcrição da fala para texto",
+      "arquivo": "transcricao-da-fala-para-texto.json"
+    },
+    {
+      "titulo": "Transkriptor",
+      "arquivo": "transkriptor.json"
+    },
+    {
       "titulo": "Virginia ajuda deficientes",
       "arquivo": "virginia.json"
     }
@@ -143,6 +147,10 @@
     {
       "titulo": "AsTeRICS Grid",
       "arquivo": "asterics-grid.json"
+    },
+    {
+      "titulo": "Captify: Legendas ao Vivo",
+      "arquivo": "captify.json"
     },
     {
       "titulo": "Cboard",
@@ -187,10 +195,6 @@
     {
       "titulo": "SymboTalk - AAC Talker",
       "arquivo": "symbotalk.json"
-    },
-    {
-      "titulo": "Transcrição da fala para texto",
-      "arquivo": "transcricao-da-fala-para-texto.json"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "titulo": "Transkriptor",
+  "descricao": "Assistente de IA que converte áudio em texto com alta precisão, suportando transcrição de reuniões, entrevistas, palestras e vídeos. Permite tradução para mais de 100 idiomas e integração com ferramentas como Zoom, Microsoft Teams e Google Meet.",
+  "orientacao": "Utilize em ambientes silenciosos para captar o áudio com clareza e garantir maior precisão. Divida áudios longos em trechos menores para evitar erros e facilitar a edição. Sempre revise o texto final para ajustes em casos de regionalismos ou palavras específicas que possam ser interpretadas incorretamente.",
+  "dicas": "Recomendado para aulas expositivas, revisão de reuniões pedagógicas ou atividades avaliativas. Pode ser usado para criar materiais de apoio a partir de discussões em sala de aula. Não é indicado para atividades com excesso de ruídos ou com múltiplos participantes falando ao mesmo tempo, o que pode prejudicar a qualidade da transcrição.",
+  "etapas_justificativa": "É mais útil para estudantes que já têm habilidades sólidas de leitura e interpretação de texto, permitindo acesso a conteúdos verbais registrados durante aulas e reuniões. Estudantes mais jovens, especialmente em etapas iniciais, podem ter dificuldade em acompanhar o material transcrito sem apoio adicional.",
+  "imagem": "https://tasparasurdos.github.io/api/imagens/transkriptor.jpg",
+  "categoria": "Comunicação Assistiva",
+  "custo": "Pago",
+  "requer_internet": "Parcialmente",
+  "plataformas": "Site; Android; iOS",
+  "autor": "Transkriptor, Inc.",
+  "link": "Site,https://transkriptor.com/pt-br/;Android,https://play.google.com/store/apps/details?id=com.transkriptor.app;iOS,https://apps.apple.com/br/app/fala-para-texto-transcrever/id1610386353",
+  "etapas": "Ensino Fundamental - Anos Finais; Ensino Médio; EJA; Ensino Superior"
+}

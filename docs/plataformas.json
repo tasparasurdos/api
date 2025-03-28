@@ -204,5 +204,11 @@
       "titulo": "Plaphoons",
       "arquivo": "plaphoons.json"
     }
+  ],
+  "Site; Android; iOS": [
+    {
+      "titulo": "Transkriptor",
+      "arquivo": "transkriptor.json"
+    }
   ]
 }

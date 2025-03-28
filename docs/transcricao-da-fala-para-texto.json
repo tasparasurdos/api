@@ -1,15 +1,15 @@
 {
   "titulo": "Transcrição da fala para texto",
-  "descricao": "Dolphin é uma ferramenta de comunicação assistiva que permite converter textos escritos em fala e transcrever fala em texto. Voltada para facilitar a comunicação de pessoas com comprometimento na fala e/ou surdas, a ferramenta é simples de usar, gratuita e funciona diretamente no navegador.",
-  "orientacao": "Para obter o máximo da ferramenta, é importante utilizar a opção de conversão de texto para fala para facilitar a comunicação em sala de aula, especialmente em atividades que envolvam leitura e expressão oral. Utilize o recurso de transcrição de fala em ambientes onde a leitura do conteúdo é mais eficaz para o aluno surdo. Ajuste o volume e a clareza da fala para melhor compreensão.",
-  "dicas": "Recomenda-se o uso do Dolphin em atividades que exijam comunicação escrita e oral, como apresentações de trabalhos ou leitura em voz alta. O recurso de transcrição de fala pode ser útil em situações de diálogos em grupo, permitindo que o aluno acompanhe a conversa por meio de texto. Não é ideal para atividades que demandem alta interatividade ou respostas rápidas em tempo real.",
-  "etapas_justificativa": "A flexibilidade da ferramenta permite a adaptação a diferentes níveis de ensino, auxiliando na inclusão e na participação ativa dos alunos com necessidades especiais.",
+  "descricao": "Aplicativo que transcreve fala para texto em tempo real, exibindo legendas ao vivo em mais de 60 idiomas e dialetos. Indispensável para surdos ou deficientes auditivos, o aplicativo facilita o acompanhamento de falas em tempo real e o armazenamento de notas transcritas.",
+  "orientacao": "Certifique-se de que o ambiente está silencioso e o dispositivo está próximo ao falante para captar o áudio com clareza. Configure o idioma correto para evitar erros de transcrição e utilize o modo offline em situações sem acesso à internet. Ajuste o tamanho da fonte para atender às necessidades visuais dos usuários.",
+  "dicas": "Ideal para aulas expositivas, consultas médicas ou eventos com discursos únicos. Evite em atividades com múltiplos falantes simultâneos ou em ambientes com muito ruído de fundo, pois isso pode comprometer a qualidade da transcrição. Utilize para fornecer material acessível a estudantes surdos ou deficientes auditivos.",
+  "etapas_justificativa": "A tecnologia requer que o usuário tenha habilidades básicas de leitura e interpretação para acompanhar as transcrições. Não é adequada para etapas iniciais da educação devido à complexidade do conteúdo transcrito.",
   "imagem": "https://tasparasurdos.github.io/api/imagens/transcricao-da-fala-para-texto.jpg",
-  "categoria": "Comunicação Assistiva",
+  "categoria": "Transcrição de Fala",
   "custo": "Grátis",
-  "requer_internet": "Não",
+  "requer_internet": "Parcialmente",
   "plataformas": "iOS",
   "autor": "Alexey Beschetnikov",
-  "link": "iOS,https://apps.apple.com/br/app/transcri%C3%A7%C3%A3o-da-fala-para-texto/id1625460169;",
-  "etapas": "Ensino Médio; Ensino Fundamental - Anos Finais; Ensino Fundamental - Anos Iniciais; Educação Infantil"
+  "link": "iOS,https://apps.apple.com/br/app/transcrição-da-fala-para-texto/id1625460169",
+  "etapas": "Educação Infantil; Ensino Fundamental - Anos Iniciais; Ensino Fundamental - Anos Finais; Ensino Médio"
 }

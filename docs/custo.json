@@ -73,6 +73,10 @@
     {
       "titulo": "Transcreva ao vivo",
       "arquivo": "transcreva-ao-vivo.json"
+    },
+    {
+      "titulo": "Transkriptor",
+      "arquivo": "transkriptor.json"
     }
   ],
   "Grátis": [
