@@ -68,15 +68,26 @@ with open('tecnologias.csv', 'r', encoding='utf-8') as csvfile:
             'titulo': row['titulo'],
             'imagem': f"{site_url}imagens/{row['imagem']}",
             'slug': f"{row['slug']}",
+            'custo': f"{row['custo']}",
+            'requer_internet': f"{row['requer_internet']}",
+            'plataformas': f"{row['plataformas']}",
+            'etapas': f"{row['etapas']}",
+            'apresentacao': f"{row['apresentacao']}",
             #'arquivo': f"{row['slug']}.json"
         })
         
         # Adicionar às categorias e guardar descrição
         categorias[row['categoria']].append({
             'titulo': row['titulo'],
-            'arquivo': f"{row['slug']}.json"
+            'imagem': f"{site_url}imagens/{row['imagem']}",
+            'slug': f"{row['slug']}",
+            'custo': f"{row['custo']}",
+            'requer_internet': f"{row['requer_internet']}",
+            'plataformas': f"{row['plataformas']}",
+            'etapas': f"{row['etapas']}",
+            'apresentacao': f"{row['apresentacao']}",
         })
-        descricoes_categorias[row['categoria']] = row['descricao_categoria']
+        descricoes_categorias[row['categoria']] = row['categoria_descricao']
         
         # Adicionar aos custos
         custos[row['custo']].append({
