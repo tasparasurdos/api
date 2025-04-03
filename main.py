@@ -66,7 +66,7 @@ with open('tecnologias.csv', 'r', encoding='utf-8') as csvfile:
         # Adicionar ao índice
         indice.append({
             'titulo': row['titulo'],
-            'imagem': f"{site_url}imagens/{row['imagem']}",
+            'imagem': f"{site_url}imagens/{ row['slug'] }-icon.jpg",
             'slug': f"{row['slug']}",
             'custo': f"{row['custo']}",
             'requer_internet': f"{row['requer_internet']}",

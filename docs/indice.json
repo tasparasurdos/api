@@ -1,7 +1,7 @@
 [
   {
     "titulo": "ACESSIBILIDADE NA CÂMARA: Dicionário de Libras",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/acessibilidade-na-camara-dicionario-de-libras.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/acessibilidade-na-camara-dicionario-de-libras-icon.jpg",
     "slug": "acessibilidade-na-camara-dicionario-de-libras",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -11,7 +11,7 @@
   },
   {
     "titulo": "Ararajuba",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/ararajuba.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/ararajuba-icon.jpg",
     "slug": "ararajuba",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -21,7 +21,7 @@
   },
   {
     "titulo": "AsTeRICS Grid",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/asterics-grid.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/asterics-grid-icon.jpg",
     "slug": "asterics-grid",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -31,7 +31,7 @@
   },
   {
     "titulo": "Ava: Transcriptions & Captions",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/ava.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/ava-icon.jpg",
     "slug": "ava",
     "custo": "Freemium",
     "requer_internet": "Sim",
@@ -41,7 +41,7 @@
   },
   {
     "titulo": "Captify: Legendas ao Vivo",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/captify.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/captify-icon.jpg",
     "slug": "captify",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -51,7 +51,7 @@
   },
   {
     "titulo": "Cboard",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/cboard.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/cboard-icon.jpg",
     "slug": "cboard",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -61,7 +61,7 @@
   },
   {
     "titulo": "Colibras",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/colibras.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/colibras-icon.jpg",
     "slug": "colibras",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -71,7 +71,7 @@
   },
   {
     "titulo": "Comunicação para surdos",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/comunicacao-para-surdos.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/comunicacao-para-surdos-icon.jpg",
     "slug": "comunicacao-para-surdos",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -81,7 +81,7 @@
   },
   {
     "titulo": "Dicionário da Língua Brasileira de Sinais",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-da-lingua-brasileira-de-sinais.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-da-lingua-brasileira-de-sinais-icon.jpg",
     "slug": "dicionario-da-lingua-brasileira-de-sinais",
     "custo": "Pago",
     "requer_internet": "Parcialmente",
@@ -91,7 +91,7 @@
   },
   {
     "titulo": "Dicionário da Língua Brasileira de Sinais V3 - 2011",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-da-lingua-brasileira-de-sinais-2011.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-da-lingua-brasileira-de-sinais-2011-icon.jpg",
     "slug": "dicionario-da-lingua-brasileira-de-sinais-2011",
     "custo": "Grátis",
     "requer_internet": "Parcialmente",
@@ -101,7 +101,7 @@
   },
   {
     "titulo": "Dicionário de Sinais da Área de Tecnologia",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-de-sinais-da-area-de-tecnologia.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/dicionario-de-sinais-da-area-de-tecnologia-icon.jpg",
     "slug": "dicionario-de-sinais-da-area-de-tecnologia",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -111,7 +111,7 @@
   },
   {
     "titulo": "Dolphin",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/dolphin.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/dolphin-icon.jpg",
     "slug": "dolphin",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -121,7 +121,7 @@
   },
   {
     "titulo": "Expressia: Falar e Aprender",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/expressia.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/expressia-icon.jpg",
     "slug": "expressia",
     "custo": "Freemium",
     "requer_internet": "Parcialmente",
@@ -131,7 +131,7 @@
   },
   {
     "titulo": "Fireflies: AI notetaker",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/fireflies.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/fireflies-icon.jpg",
     "slug": "fireflies",
     "custo": "Pago",
     "requer_internet": "Sim",
@@ -141,7 +141,7 @@
   },
   {
     "titulo": "GitalkText",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/gitalktext.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/gitalktext-icon.jpg",
     "slug": "gitalktext",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -151,7 +151,7 @@
   },
   {
     "titulo": "Google Meet",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/google-meet.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/google-meet-icon.jpg",
     "slug": "google-meet",
     "custo": "Freemium",
     "requer_internet": "Sim",
@@ -161,7 +161,7 @@
   },
   {
     "titulo": "Hand Talk Tradutor para Libras",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/hand-talk.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/hand-talk-icon.jpg",
     "slug": "hand-talk",
     "custo": "Freemium",
     "requer_internet": "Não",
@@ -171,7 +171,7 @@
   },
   {
     "titulo": "HelpTalk",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/helptalk.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/helptalk-icon.jpg",
     "slug": "helptalk",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -181,7 +181,7 @@
   },
   {
     "titulo": "LetMeTalk:Aplicação Grátis CAA",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/letmetalk.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/letmetalk-icon.jpg",
     "slug": "letmetalk",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -191,7 +191,7 @@
   },
   {
     "titulo": "Libras Para Todos",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/libras-para-todos.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/libras-para-todos-icon.jpg",
     "slug": "libras-para-todos",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -201,7 +201,7 @@
   },
   {
     "titulo": "LibrasQuim - Dicionário de Libras para Química",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/librasquim.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/librasquim-icon.jpg",
     "slug": "librasquim",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -211,7 +211,7 @@
   },
   {
     "titulo": "LibrasTI",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/librasti.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/librasti-icon.jpg",
     "slug": "librasti",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -221,7 +221,7 @@
   },
   {
     "titulo": "Live Transcribe",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/live-transcribe.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/live-transcribe-icon.jpg",
     "slug": "live-transcribe",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -231,7 +231,7 @@
   },
   {
     "titulo": "Matraquinha",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/matraquinha.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/matraquinha-icon.jpg",
     "slug": "matraquinha",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -241,7 +241,7 @@
   },
   {
     "titulo": "Microsoft Teams",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/microsoft-teams.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/microsoft-teams-icon.jpg",
     "slug": "microsoft-teams",
     "custo": "Freemium",
     "requer_internet": "Parcialmente",
@@ -251,7 +251,7 @@
   },
   {
     "titulo": "Microsoft Translate",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/microsoft-translate.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/microsoft-translate-icon.jpg",
     "slug": "microsoft-translate",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -261,7 +261,7 @@
   },
   {
     "titulo": "Mudo Que Fala",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/mudo-que-fala.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/mudo-que-fala-icon.jpg",
     "slug": "mudo-que-fala",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -271,7 +271,7 @@
   },
   {
     "titulo": "Picto4Me",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/picto4me.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/picto4me-icon.jpg",
     "slug": "picto4me",
     "custo": "Freemium",
     "requer_internet": "Parcialmente",
@@ -281,7 +281,7 @@
   },
   {
     "titulo": "Plaphoons",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/plaphoons.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/plaphoons-icon.jpg",
     "slug": "plaphoons",
     "custo": "Grátis",
     "requer_internet": "Parcialmente",
@@ -291,7 +291,7 @@
   },
   {
     "titulo": "Quiz de Libras",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/quiz-de-libras.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/quiz-de-libras-icon.jpg",
     "slug": "quiz-de-libras",
     "custo": "Grátis",
     "requer_internet": "Não",
@@ -301,7 +301,7 @@
   },
   {
     "titulo": "Rybená Tradutor Libras Voz",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/rybena.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/rybena-icon.jpg",
     "slug": "rybena",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -311,7 +311,7 @@
   },
   {
     "titulo": "SENAI Libras",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/senai-libras.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/senai-libras-icon.jpg",
     "slug": "senai-libras",
     "custo": "Grátis",
     "requer_internet": "Parcialmente",
@@ -321,7 +321,7 @@
   },
   {
     "titulo": "Sinalário em Libras",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/sinalario-em-libras.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/sinalario-em-libras-icon.jpg",
     "slug": "sinalario-em-libras",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -331,7 +331,7 @@
   },
   {
     "titulo": "Skype",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/skype.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/skype-icon.jpg",
     "slug": "skype",
     "custo": "Freemium",
     "requer_internet": "Sim",
@@ -341,7 +341,7 @@
   },
   {
     "titulo": "SpeakLiz: para pessoas com def",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/speakliz.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/speakliz-icon.jpg",
     "slug": "speakliz",
     "custo": "Pago",
     "requer_internet": "Parcialmente",
@@ -351,7 +351,7 @@
   },
   {
     "titulo": "Speech To Text | Voice To Text",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/speech-to-text-voice-to-text.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/speech-to-text-voice-to-text-icon.jpg",
     "slug": "speech-to-text-voice-to-text",
     "custo": "Freemium",
     "requer_internet": "Sim",
@@ -361,7 +361,7 @@
   },
   {
     "titulo": "SpeechNotes",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/speechnotes.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/speechnotes-icon.jpg",
     "slug": "speechnotes",
     "custo": "Freemium",
     "requer_internet": "Parcialmente",
@@ -371,7 +371,7 @@
   },
   {
     "titulo": "Spread The Sign",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/spread-the-sign.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/spread-the-sign-icon.jpg",
     "slug": "spread-the-sign",
     "custo": "Freemium",
     "requer_internet": "Parcialmente",
@@ -381,7 +381,7 @@
   },
   {
     "titulo": "SymboTalk - AAC Talker",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/symbotalk.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/symbotalk-icon.jpg",
     "slug": "symbotalk",
     "custo": "Freemium",
     "requer_internet": "Não",
@@ -391,7 +391,7 @@
   },
   {
     "titulo": "Tradutor de Conversas",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/tradutor-de-conversas.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/tradutor-de-conversas-icon.jpg",
     "slug": "tradutor-de-conversas",
     "custo": "Freemium",
     "requer_internet": "Sim",
@@ -401,7 +401,7 @@
   },
   {
     "titulo": "Transcreva ao vivo",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/transcreva-ao-vivo.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/transcreva-ao-vivo-icon.jpg",
     "slug": "transcreva-ao-vivo",
     "custo": "Pago",
     "requer_internet": "Parcialmente",
@@ -411,7 +411,7 @@
   },
   {
     "titulo": "Transcrição da fala para texto",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/transcricao-da-fala-para-texto.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/transcricao-da-fala-para-texto-icon.jpg",
     "slug": "transcricao-da-fala-para-texto",
     "custo": "Grátis",
     "requer_internet": "Parcialmente",
@@ -421,7 +421,7 @@
   },
   {
     "titulo": "Transkriptor",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/transkriptor.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/transkriptor-icon.jpg",
     "slug": "transkriptor",
     "custo": "Pago",
     "requer_internet": "Parcialmente",
@@ -431,7 +431,7 @@
   },
   {
     "titulo": "TurboScribe",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/turboscribe.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/turboscribe-icon.jpg",
     "slug": "turboscribe",
     "custo": "Freemium",
     "requer_internet": "Sim",
@@ -441,7 +441,7 @@
   },
   {
     "titulo": "Virginia ajuda deficientes",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/virginia.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/virginia-icon.jpg",
     "slug": "virginia",
     "custo": "Grátis",
     "requer_internet": "Parcialmente",
@@ -451,7 +451,7 @@
   },
   {
     "titulo": "VLibras",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/vlibras.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/vlibras-icon.jpg",
     "slug": "vlibras",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -461,7 +461,7 @@
   },
   {
     "titulo": "Zapia - Assistente Pessoal IA",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/zapia.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/zapia-icon.jpg",
     "slug": "zapia",
     "custo": "Grátis",
     "requer_internet": "Sim",
@@ -471,7 +471,7 @@
   },
   {
     "titulo": "Zoom",
-    "imagem": "https://tasparasurdos.github.io/api/imagens/zoom.jpg",
+    "imagem": "https://tasparasurdos.github.io/api/imagens/zoom-icon.jpg",
     "slug": "zoom",
     "custo": "Freemium",
     "requer_internet": "Sim",
