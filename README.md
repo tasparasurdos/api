@@ -4,7 +4,7 @@
 
 Este projeto é um produto de mestrado profissional e consiste em uma API estática composta por arquivos JSON que fornecem informações sobre diversas tecnologias assistivas para surdos. A API inclui arquivos de índice organizados por categoria, custo, etapas de ensino, necessidade de conexão com a internet, entre outros.
 
-Os arquivos JSON são gerados automaticamente a partir de um script Python (`main.py`), que processa os dados contidos no arquivo `tecnologias.csv` e gera a estrutura organizada dos arquivos JSON na pasta `api/`.
+Os arquivos JSON são gerados automaticamente a partir de um script Python (`main.py`), que processa os dados contidos numa planilha online do Google Sheets e gera a estrutura organizada dos arquivos JSON na pasta `api/`.
 
 ---
 
