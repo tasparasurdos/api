@@ -84,6 +84,7 @@ for i, row in enumerate(reader, 1):
         'plataformas': row['plataformas'],
         'etapas': row['etapas'],
         'apresentacao': row['apresentacao'],
+        'link': f"{row['slug']}.json",
     })
     
     # Adicionar às categorias e guardar descrição
